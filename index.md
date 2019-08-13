@@ -13,9 +13,7 @@
 
 ## My Projects
 
-### Android TicTacToe Mobile Development
-
-[View](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
+### Android TicTacToe Mobile Development [View](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
 
 - [x] Project Goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile development.
 
