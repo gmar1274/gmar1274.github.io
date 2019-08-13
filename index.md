@@ -3,7 +3,7 @@
 ![Image of Gabriel](/images/gabriel.jpg){:height="50%" width="50%"}
 
 ## About Me 
-First generation STEM graduate and an accomplished full stack software developer with professional experience in applications development. He is actively open in discovering new opportunities that would allow him to further develop, learn, and hone in on his career in the software/IT industry. 
+First generation STEM graduate and an accomplished full stack software developer with professional experience in application development. Gabriel is currently open to discovering new opportunities that would allow him to further develop, learn, and hone in on skills that would help him grow his career in the software/IT industry. 
 
 As a former baseball player, Gabriel understands the value and importance of teamwork. That is why he values team collaboration and healthy team environment as his number one priority when job seeking.
 
