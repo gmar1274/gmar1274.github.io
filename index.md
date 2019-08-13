@@ -1,4 +1,5 @@
 ## [LinkedIn](https://www.linkedin.com/in/gabrielnm) | [GitHub](https://www.github.com/gmar1274)  
+
 ## About Me ![Image of Gabriel](/images/gabriel.jpg){:height="50%" width="50%"}
 First generation STEM graduate and an accomplished full stack software developer with professional experience in applications development. He is actively open in discovering new opportunities that would allow him to further develop, learn, and hone in on his career in the software/IT industry. 
 
@@ -11,6 +12,7 @@ Outside of the workplace, he enjoys listening to live music, drinking a nice cra
 2018--present | **M.S. Applied Mathematics**, *California State Polytechnic University, Pomona.* |
 2011--2016 | **B.S. Computer Science** (ABET Accredited), *California State Polytechnic University, Pomona.* |
 2011--2016 | **Physics Minor**, *California State Polytechnic University, Pomona.* |
+
 
 ## My Projects
 ---
@@ -29,7 +31,7 @@ Outside of the workplace, he enjoys listening to live music, drinking a nice cra
 ```
 
 ### Android & iOS Mobile Development [View](https://github.com/gmar1274/Android-Firebase)
-```objective c
+```swift
 - [x] Project Goal was to recreate an app similar to Supercut's real-time reservation system.
 
 - [x] Project to demonstrate proficiency with the Android and iOS SDK native mobile development,life cycle, and Model View Controller architecture (MVC).
@@ -89,4 +91,4 @@ Outside of the workplace, he enjoys listening to live music, drinking a nice cra
 ### Running
 ### Hiking
 ### Craft beer
-### TV shows: MasterChef, Ink Master, It's Always Sunny in Philadelphia, Workaholics, Rick and Morty
+### TV shows: #### MasterChef, Ink Master, It's Always Sunny in Philadelphia, Workaholics, Rick and Morty
