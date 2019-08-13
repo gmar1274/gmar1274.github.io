@@ -4,6 +4,7 @@
 - 2011--2016 | - **B.S. Computer Science** (ABET Accredited), *California State Polytechnic University, Pomona.*
 - 2011--2016 | - **Physics Minor**, *California State Polytechnic University, Pomona.*
 
+
 - ## [LinkedIn](https://www.linkedin.com/in/gnmartinez) | ## [GitHub](https://www.github.com/gmar1274)
 
 ## My Projects
