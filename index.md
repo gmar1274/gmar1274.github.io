@@ -4,11 +4,12 @@
 - 2011-2016 | **B.S. Computer Science** (ABET Accredited), *California State Polytechnic University, Pomona.*
 - 2011-2016 | **Physics Minor**, *California State Polytechnic University, Pomona.*
 
-## LinkedIn [View](https://www.linkedin.com/in/gnmartinez)
+## [LinkedIn](https://www.linkedin.com/in/gnmartinez)
 
-## GitHub [View](https://www.github.com/gmar1274)
+## [GitHub](https://www.github.com/gmar1274)
 
 ## My Projects
+---
 
 ### Android TicTacToe Mobile Development [View](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
 
