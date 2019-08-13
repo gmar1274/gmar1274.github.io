@@ -1,4 +1,4 @@
-## [LinkedIn](https://www.linkedin.com/in/gabrielnm) | [GitHub](https://www.github.com/gmar1274) | [Resume-GabrielMartinez.pdf](/docs/Resume-GabrielMartinez.pdf).
+## [LinkedIn](https://www.linkedin.com/in/gabrielnm) | [GitHub](https://www.github.com/gmar1274) | [Resume.pdf](/docs/Resume-GabrielMartinez.pdf).
 
 -- | ![Image of Gabriel](/images/gabriel.jpg){:height="50%" width="50%"} |
 
