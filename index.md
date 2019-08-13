@@ -74,5 +74,5 @@
 
 - [x] Configured my TP-Link's firmware and installed OpenWrt on the device. 
 
--[ ] Next step is to buy a mini USB travel router and install OpenWrt along with OpenVpn so that I can connect all my extra devices to my travel router without needing to generate individual certificates and keys for each client devices.
+- [ ] Next step is to buy a mini USB travel router and install OpenWrt along with OpenVpn so that I can connect all my extra devices to my travel router without needing to generate individual certificates and keys for each client devices.
 ```
