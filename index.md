@@ -1,4 +1,5 @@
-## Links of Interest
-
-* [GitHub](https://www.github.com/gmar1274)
+## LinkedIn
 * [LinkedIn](https://www.linkedin.com/in/gnmartinez)
+## GitHub
+* [GitHub](https://www.github.com/gmar1274)
+## My Projects
