@@ -1,9 +1,8 @@
 ## Education
-- 2018-present | **M.S. Applied Mathematics**, *California State Polytechnic University, Pomona.*
 
-- 2011-2016 | **B.S. Computer Science (ABET Accredited)**, *California State Polytechnic University, Pomona.*
-
-- 2011-2016 | **Physics Minor**, *California State Polytechnic University, Pomona.*
+- 2018 - present | **M.S. Applied Mathematics**, *California State Polytechnic University, Pomona.*
+- 2011 - 2016 | **B.S. Computer Science (ABET Accredited)**, *California State Polytechnic University, Pomona.*
+- 2011 - 2016 | **Physics Minor**, *California State Polytechnic University, Pomona.*
 
 ## LinkedIn
 [LinkedIn](https://www.linkedin.com/in/gnmartinez)
@@ -26,7 +25,7 @@
 - [x] Third party API's consumed include Google's Firebase NoSQL and AdMob.
 
 
-### Android \& iOS Mobile Development [View](https://github.com/gmar1274/Android-Firebase)
+### Android & iOS Mobile Development [View](https://github.com/gmar1274/Android-Firebase)
 
 - [x] Project Goal was to recreate an app similar to Supercut's real-time reservation system.
 
