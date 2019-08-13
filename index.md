@@ -19,11 +19,11 @@
 
 ### Android & iOS Mobile Development [View](https://github.com/gmar1274/Android-Firebase)
 
- Project Goal was to recreate an app similar to Supercut's real-time reservation system.
- Project to demonstrate proficiency with the Android and iOS SDK native mobile development,life cycle, and Model View Controller architecture (MVC).
- Project functionality similar to Supercut's realtime reservation system.
- Android developed using Java and iOS app developed using swift.
- Technologies used: Android Studio and Xcode IDE, DreamFactory REST API Platform for creating custom web APIs, JSON for encoding/  decoding microservices, MySQL, Google's Firebase NoSQL, and Amazon Web Services (AWS) EC2 instance to host the MySQL database.
+-- Project Goal was to recreate an app similar to Supercut's real-time reservation system.
+-- Project to demonstrate proficiency with the Android and iOS SDK native mobile development,life cycle, and Model View Controller architecture (MVC).
+-- Project functionality similar to Supercut's realtime reservation system.
+-- Android developed using Java and iOS app developed using swift.
+-- Technologies used: Android Studio and Xcode IDE, DreamFactory REST API Platform for creating custom web APIs, JSON for encoding/  decoding microservices, MySQL, Google's Firebase NoSQL, and Amazon Web Services (AWS) EC2 instance to host the MySQL database.
 
 ### C\# Windows Presentation Foundation (WPF) Development [View](https://github.com/gmar1274/FTNTransport)
 
