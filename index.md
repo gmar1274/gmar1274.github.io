@@ -1,10 +1,8 @@
 ## Education
 
 - 2018 - present | **M.S. Applied Mathematics**, *California State Polytechnic University, Pomona.*
-
 - 2011 - 2016 | **B.S. Computer Science (ABET Accredited)**, *California State Polytechnic University,
 Pomona.*
-
 - 2011 - 2016 | **Physics Minor**, *California State Polytechnic University, Pomona.*
 
 ## LinkedIn
@@ -17,7 +15,7 @@ Pomona.*
 
 ### Android TicTacToe Mobile Development
 
-(https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
+[View](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
 
 - [x] Project Goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile development.
 
@@ -32,7 +30,7 @@ Pomona.*
 
 ### Android \& iOS Mobile Development
 
-(https://github.com/gmar1274/Android-Firebase)
+[View](https://github.com/gmar1274/Android-Firebase)
 
 - [x] Project Goal was to recreate an app similar to Supercut's real-time reservation system.
 
@@ -46,7 +44,7 @@ Pomona.*
 
 ### C\# Windows Presentation Foundation (WPF) Development	
 
-(https://github.com/gmar1274/FTNTransport)
+[View](https://github.com/gmar1274/FTNTransport)
 
 - [x] Project goal was to create a WPF administrative inventory management dashboard  application for the independent trucking industry.
 - [x] Portfolio project to demonstrate knowledge using the .NET framework and Model View ViewModel Architecture (MVVM).
@@ -56,7 +54,7 @@ Pomona.*
 
 ### Python Modeling - Senior Class Project
 
-(https://github.com/gmar1274/ComputationalBiologyPhy409Project)
+[View](https://github.com/gmar1274/ComputationalBiologyPhy409Project)
 
 - [x] Went above and beyond class requirements. Goal was to recreate research publication that models botanical life using the Lindenmayer System.
 
