@@ -1,6 +1,8 @@
 ## [LinkedIn](https://www.linkedin.com/in/gabrielnm) | [GitHub](https://www.github.com/gmar1274)  
 
-## About Me ![Image of Gabriel](/images/gabriel.jpg){:height="50%" width="50%"}
+![Image of Gabriel](/images/gabriel.jpg){:height="50%" width="50%"}
+
+## About Me 
 First generation STEM graduate and an accomplished full stack software developer with professional experience in applications development. He is actively open in discovering new opportunities that would allow him to further develop, learn, and hone in on his career in the software/IT industry. 
 
 As a former baseball player, Gabriel understands the value and importance of teamwork. That is why he values team collaboration and healthy team environment as his number one priority when job seeking.
@@ -91,4 +93,5 @@ Outside of the workplace, he enjoys listening to live music, drinking a nice cra
 ### Running
 ### Hiking
 ### Craft beer
-### TV shows: #### MasterChef, Ink Master, It's Always Sunny in Philadelphia, Workaholics, Rick and Morty
+### TV shows:
+#### MasterChef, Ink Master, It's Always Sunny in Philadelphia, Workaholics, Rick and Morty
