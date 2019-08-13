@@ -1,4 +1,10 @@
 ## [LinkedIn](https://www.linkedin.com/in/gabrielnm) | [GitHub](https://www.github.com/gmar1274)  
+## About Me ![Image of Gabriel](/images/gabriel.jpg)
+First generation STEM graduate and an accomplished full stack software developer with professional experience in applications development. He is actively open in discovering new opportunities that would allow him to further develop, learn, and hone in on his career in the software/IT industry. 
+
+As a former baseball player, Gabriel understands the value and importance of teamwork. That is why he values team collaboration and healthy team environment as his number one priority when job seeking.
+
+Outside of the workplace, he enjoys listening to live music, drinking a nice craft beer, and just recently got into fitness (running and hiking) to balance out the former. 
 
 ## Education
 
@@ -11,7 +17,7 @@
 
 ### Android TicTacToe Mobile Development [View](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
 ```java
-- [x] Project Goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile   development.
+- [x] Project Goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile development.
 
 - [x] Implemented native animation libraries and media player.
 
@@ -23,7 +29,7 @@
 ```
 
 ### Android & iOS Mobile Development [View](https://github.com/gmar1274/Android-Firebase)
-```swift
+```objective c
 - [x] Project Goal was to recreate an app similar to Supercut's real-time reservation system.
 
 - [x] Project to demonstrate proficiency with the Android and iOS SDK native mobile development,life cycle, and Model View Controller architecture (MVC).
@@ -77,3 +83,10 @@
 
 - [ ] Next step is to buy a mini USB travel router and install OpenWrt along with OpenVpn so that I can connect all my extra devices to my travel router without needing to generate individual certificates and keys for each client devices.
 ```
+## Hobbies
+---
+### Live Music
+### Running
+### Hiking
+### Craft beer
+### TV shows: MasterChef, Ink Master, It's Always Sunny in Philadelphia, Workaholics, Rick and Morty
