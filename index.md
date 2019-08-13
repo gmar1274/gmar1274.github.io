@@ -49,7 +49,7 @@ Outside of the workplace, he enjoys listening to live music, drinking a nice cra
 
 - [x] Developed an administrative inventory management dashboard system GUI.
 
-- [x] App written in C\#.
+- [x] App written in C#.
 
 - [x] Technologies used: Microsoft Visual Studio IDE, XAML, MYSQL, PHP for custom web services, JSON for encoding/decoding PHP web services, and Amazon Web Services (AWS) EC2 instance for hosting the database and PHP web services.
 ```
