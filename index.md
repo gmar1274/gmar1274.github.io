@@ -7,7 +7,6 @@
 2011--2016 | **Physics Minor**, *California State Polytechnic University, Pomona.* |
 
 ## My Projects
----
 
 ### Android TicTacToe Mobile Development [View](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
 
