@@ -4,7 +4,7 @@
 2011--2016 | **Physics Minor**, *California State Polytechnic University, Pomona.* |
 
 ---
-## [LinkedIn](https://www.linkedin.com/in/gnmartinez)  ## [GitHub](https://www.github.com/gmar1274)
+## [LinkedIn](https://www.linkedin.com/in/gnmartinez) | [GitHub](https://www.github.com/gmar1274)
 
 ## My Projects
 ---
