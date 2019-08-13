@@ -7,9 +7,10 @@
 2011--2016 | **Physics Minor**, *California State Polytechnic University, Pomona.* |
 
 ## My Projects
+---
 
 ### Android TicTacToe Mobile Development [View](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
-```
+```java
 - [x] Project Goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile   development.
 
 - [x] Implemented native animation libraries and media player.
@@ -22,7 +23,7 @@
 ```
 
 ### Android & iOS Mobile Development [View](https://github.com/gmar1274/Android-Firebase)
-```
+```swift
 - [x] Project Goal was to recreate an app similar to Supercut's real-time reservation system.
 
 - [x] Project to demonstrate proficiency with the Android and iOS SDK native mobile development,life cycle, and Model View Controller architecture (MVC).
@@ -35,7 +36,7 @@
 ```
 
 ### C\# Windows Presentation Foundation (WPF) Development [View](https://github.com/gmar1274/FTNTransport)
-```
+```c#
 - [x] Project goal was to create a WPF administrative inventory management dashboard  application for the independent trucking industry.
 
 - [x] Portfolio project to demonstrate knowledge using the .NET framework and Model View ViewModel Architecture (MVVM).
@@ -48,7 +49,7 @@
 ```
 
 ### Python Modeling - Senior Class Project [View](https://github.com/gmar1274/ComputationalBiologyPhy409Project)
-```
+```python
 - [x] Went above and beyond class requirements. Goal was to recreate research publication that models botanical life using the Lindenmayer System.
 
 - [x] Class project that demonstrate proficiency in Python and computational physics modeling.
@@ -63,7 +64,7 @@
 ```
 
 ### Raspberry Pi - OpenVPN Server
-```
+```bash
 - [x] Project goal was to host my own secure virtual private network (VPN) server		
 
 - [x] Successfully created and currently maintaining a Virtual Private Network (VPN) for secured and safe web browsing on my Raspberry Pi.		
