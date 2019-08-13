@@ -1,10 +1,10 @@
 ## Education
-2018 - present **M.S. Applied Mathematics**, *California State Polytechnic University, Pomona.*
+2018 - present | **M.S. Applied Mathematics**, *California State Polytechnic University, Pomona.*
 
-2011 - 2016 **B.S. Computer Science (ABET Accredited)**, *California State Polytechnic University,
+2011 - 2016 | **B.S. Computer Science (ABET Accredited)**, *California State Polytechnic University,
 Pomona.*
 
-2011 - 2016 **Physics Minor**, *California State Polytechnic University, Pomona.*
+2011 - 2016 | **Physics Minor**, *California State Polytechnic University, Pomona.*
 
 ## LinkedIn
 [LinkedIn](https://www.linkedin.com/in/gnmartinez)
@@ -81,4 +81,4 @@ https://github.com/gmar1274/ComputationalBiologyPhy409Project
 		
 - [x] Configured my TP-Link's firmware and installed OpenWrt on the device.
     
-- [] Next step is to buy a mini USB travel router and install OpenWrt along with OpenVpn so that I can connect all my extra devices to my travel router without needing to generate individual certificates and keys for each client devices.
+- [ ] Next step is to buy a mini USB travel router and install OpenWrt along with OpenVpn so that I can connect all my extra devices to my travel router without needing to generate individual certificates and keys for each client devices.
