@@ -10,11 +10,11 @@
 
 ### Android TicTacToe Mobile Development [View](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
 
- Project Goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile   development.
- Implemented native animation libraries and media player.
- App developed using Java.
- Implemented one of the first Artificial Intelligence search algorithms called MinMax with alpha-beta pruning to reduce the runtime search efficiency.
- Third party API's consumed include Google's Firebase NoSQL and AdMob.
+  Project Goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile   development.
+  Implemented native animation libraries and media player.
+  App developed using Java.
+  Implemented one of the first Artificial Intelligence search algorithms called MinMax with alpha-beta pruning to reduce the runtime search efficiency.
+  Third party API's consumed include Google's Firebase NoSQL and AdMob.
 
 
 ### Android & iOS Mobile Development [View](https://github.com/gmar1274/Android-Firebase)
