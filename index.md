@@ -26,9 +26,7 @@
 - [x] Third party API's consumed include Google's Firebase NoSQL and AdMob.
 
 
-### Android \& iOS Mobile Development
-
-[View](https://github.com/gmar1274/Android-Firebase)
+### Android \& iOS Mobile Development [View](https://github.com/gmar1274/Android-Firebase)
 
 - [x] Project Goal was to recreate an app similar to Supercut's real-time reservation system.
 
@@ -40,9 +38,7 @@
 
 - [x] Technologies used: Android Studio and Xcode IDE, DreamFactory REST API Platform for creating custom web APIs, JSON for encoding/ decoding microservices, MySQL, Google's Firebase NoSQL, and Amazon Web Services (AWS) EC2 instance to host the MySQL database.
 
-### C\# Windows Presentation Foundation (WPF) Development	
-
-[View](https://github.com/gmar1274/FTNTransport)
+### C\# Windows Presentation Foundation (WPF) Development [View](https://github.com/gmar1274/FTNTransport)
 
 - [x] Project goal was to create a WPF administrative inventory management dashboard  application for the independent trucking industry.
 - [x] Portfolio project to demonstrate knowledge using the .NET framework and Model View ViewModel Architecture (MVVM).
@@ -50,9 +46,7 @@
 - [x] App written in C\#.
 - [x] Technologies used: Microsoft Visual Studio IDE, XAML, MYSQL, PHP for custom web services, JSON for encoding/decoding PHP web services, and Amazon Web Services (AWS) EC2 instance for hosting the database and PHP web services.
 
-### Python Modeling - Senior Class Project
-
-[View](https://github.com/gmar1274/ComputationalBiologyPhy409Project)
+### Python Modeling - Senior Class Project [View](https://github.com/gmar1274/ComputationalBiologyPhy409Project)
 
 - [x] Went above and beyond class requirements. Goal was to recreate research publication that models botanical life using the Lindenmayer System.
 
