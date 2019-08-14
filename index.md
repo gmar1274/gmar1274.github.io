@@ -11,7 +11,6 @@
 }
  .myimage-center{
   text-align:center;
-  background-image: url('/images/mandel.jpg');
  }
  
 </style>
@@ -26,7 +25,13 @@ Outside of the workplace, he enjoys listening to live music, drinking a nice cra
 
 2018--present | **M.S. Applied Mathematics**, *California State Polytechnic University, Pomona.* |
 2011--2016 | **B.S. Computer Science** (ABET Accredited), *California State Polytechnic University, Pomona.* |
+**Relevant Coursework:** Data Structures & Algorithms, Design and Analysis of Algorithms, Programming Graphical User Interfaces (GUI), Numerical Methods, Graph Theory, Computer Networks,
+Artificial Intelligence, Database Systems, Computer Organization and Assembly Programming.
 2011--2016 | **Physics Minor**, *California State Polytechnic University, Pomona.* |
+**Relevant Coursework:** General Physics, Intro to Electromagnetic Radiation and Special Relativity,
+Intro to Quantum Physics, Biophysics, Computational Physics (python programming using NumPy
+and SciPy modules), Differential Equations, Multivariable Calculus.
+
 
 
 ## My Projects
