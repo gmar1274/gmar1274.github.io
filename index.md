@@ -3,7 +3,7 @@
 
 {:.myimage-center}
 
-![Image of Gabriel](/images/gabriel.jpg){: .myimage}
+![Image of Gabriel](/images/gabriel.jpg){:height="50%" width="50%"}
 
 <style>
 .mycenter {
@@ -12,10 +12,6 @@
  .myimage-center{
   text-align:center;
   background-image: url('/images/mandel.jpg');
- }
- .myimage{
-  height:"50%";
-  width:"50%";  
  }
  
 </style>
