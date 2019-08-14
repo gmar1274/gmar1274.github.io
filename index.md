@@ -13,6 +13,10 @@
     border-bottom: 0px;
     background: white;
 }
+.mycenter tr:nth-child(odd){ 
+text-align: center;
+background: white;
+}
  .myimage-center{
   text-align:center;
  }
