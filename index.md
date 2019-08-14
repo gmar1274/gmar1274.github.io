@@ -9,6 +9,7 @@
 .mycenter {
     text-align:center;
     font-size: 1.5em;
+    font-weight: bold;
 }
  .myimage-center{
   text-align:center;
@@ -18,6 +19,7 @@
  }
  h2 {
   border-left: 5px solid #069;
+  padding: .25em;
 }
  
 </style>
