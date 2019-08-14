@@ -125,7 +125,6 @@ Outside of the workplace, he enjoys listening to live music, drinking a nice cra
 
 | Live Music | Running | Hiking |
 | Reading Math Texts (yes really :nerd_face: ) | Craft beer | Food Festivals | 
-
-| TV shows |
-|:---------|
-| MasterChef | Ink Master | Shark Tank | It's Always Sunny in Philadelphia | Workaholics | Rick and Morty |
+| **TV shows** |
+| MasterChef | Ink Master | Shark Tank | 
+| It's Always Sunny in Philadelphia | Workaholics | Rick and Morty |
