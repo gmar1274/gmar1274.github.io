@@ -9,8 +9,8 @@
  p.myimage{
   text-align:center;
   background-image: url('/images/mandel.jpg');
-  height="50%";
-  width="50%";
+  height="25%";
+  width="25%";
  }
  
 </style>
