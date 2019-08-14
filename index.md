@@ -6,50 +6,55 @@
 ![Image of Gabriel](/images/gabriel.jpg){:height="50%" width="50%"}
 
 <style>
-.mycenter {
-    text-align:center;
-    font-size: 1.5em;
-    font-weight: bold;
-    border-bottom: 0px;
-    background: white;
-}
-.mycenter tr:nth-child(odd){ 
-text-align: center;
-background: white;
-}
- .myimage-center{
-  text-align:center;
- }
- header{
-  background-image: url('/images/mandel.jpg');
- }
- h2 {
-  border-left: 5px solid #069;
-  padding: .25em;
- }
-/*  Define the background color for all the ODD background rows  */
-   tr:nth-child(odd){ 
-    text-align: center;
-    background: #b8d1f3;
-}
-/*  Define the background color for all the EVEN background rows  */
-   tr:nth-child(even){
-   background: #dae5f4;
-   text-align: center;
-}
-.wrapper{
-    width: 80%;
-    margin: 0 auto;
-    background: #ffffff;
-    border-radius: 8px;
-}
-@media print, screen and (max-width: 740px){
-    .wrapper {
-    border-radius: 0;
-    box-shadow: none;
-    width: 100%;
+    .mycenter {
+        text-align:center;
+        font-size: 1.5em;
+        font-weight: bold;
+        border-bottom: 0px;
+        background: white;
     }
- }
+    .mycenter th, td {
+        text-align: center;
+        padding: 5px 10px;
+        border-bottom: 1px solid #aaa;
+    }
+    .mycenter tr:nth-child(odd){ 
+        text-align: center;
+        background: white;
+    }
+    .myimage-center{
+        text-align:center;
+    }
+    header{
+        background-image: url('/images/mandel.jpg');
+    }
+    h2 {
+        border-left: 5px solid #069;
+        padding: .25em;
+    }
+    /*  Define the background color for all the ODD background rows  */
+    tr:nth-child(odd){ 
+        text-align: center;
+        background: #b8d1f3;
+    }
+    /*  Define the background color for all the EVEN background rows  */
+    tr:nth-child(even){
+        background: #dae5f4;
+        text-align: center;
+    }
+    .wrapper{
+        width: 80%;
+        margin: 0 auto;
+        background: #ffffff;
+        border-radius: 8px;
+    }
+    @media print, screen and (max-width: 740px){
+        .wrapper {
+            border-radius: 0;
+            box-shadow: none;
+            width: 100%;
+        }
+    }
 </style>
 
 ## About Me 
