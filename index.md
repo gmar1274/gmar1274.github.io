@@ -12,6 +12,9 @@
  .myimage-center{
   text-align:center;
  }
+ header{
+  background-image: url('/images/mandel.jpg');
+ }
  
 </style>
 ## About Me 
