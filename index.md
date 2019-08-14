@@ -1,6 +1,6 @@
 ## [LinkedIn](https://www.linkedin.com/in/gabrielnm) | [GitHub](https://www.github.com/gmar1274) | [Resume.pdf](/docs/Resume_GabrielMartinez.pdf)
 
- ![Image of Gabriel](/images/gabriel.jpg?style=centerme){:height="50%" width="50%"}{:.center} 
+ ![Image of Gabriel](/images/gabriel.jpg){:height="50%" width="50%"}{:.center} 
 
 ## About Me 
 First generation STEM graduate and an accomplished full stack software developer with professional experience in application development. Gabriel is currently open to discovering new opportunities that would allow him to further develop, learn, and hone in on skills that would help him grow his career in the software/IT industry. 
