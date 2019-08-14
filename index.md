@@ -39,6 +39,13 @@
     background: #ffffff;
     border-radius: 8px;
 }
+@media print, screen and (max-width: 740px){
+    .wrapper {
+    border-radius: 0;
+    box-shadow: none;
+    width: 100%;
+    }
+ }
 </style>
 
 ## About Me 
