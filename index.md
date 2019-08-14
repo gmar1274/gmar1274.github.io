@@ -6,6 +6,9 @@
 .mycenter {
     text-align:center;
 }
+ p{
+   text-align:center;
+ }
 </style>
 ## About Me 
 First generation STEM graduate and an accomplished full stack software developer with professional experience in application development. Gabriel is currently open to discovering new opportunities that would allow him to further develop, learn, and hone in on skills that would help him grow his career in the software/IT industry. 
@@ -97,7 +100,7 @@ Outside of the workplace, he enjoys listening to live music, drinking a nice cra
 ### Live Music
 ### Running
 ### Hiking
-### Reading Math Texts (yes really 	:nerd_face: :nerd: )
+### Reading Math Texts (yes really :sunglasses: )
 ### Craft beer
 ### Food Festivals
 ### TV shows:
