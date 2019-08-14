@@ -19,6 +19,7 @@
     }
     .mycenter tr:nth-child(odd){ 
         text-align: center;
+        background: #fffef0;
     }
     .myimage-center{
         text-align:center;
@@ -43,7 +44,7 @@
     .wrapper{
         width: 80%;
         margin: 0 auto;
-        background: #ffffff;
+        background: #fffef0;
         border-radius: 8px;
     }
     @media print, screen and (max-width: 740px){
@@ -54,8 +55,8 @@
         }
     }
    body{
-    background: lemonchiffon;
-    color: white;
+    background: #eeeeee;
+    color: black;
    }
 </style>
 
