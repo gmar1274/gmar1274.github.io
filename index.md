@@ -21,7 +21,14 @@
   border-left: 5px solid #069;
   padding: .25em;
 }
- 
+/*  Define the background color for all the ODD background rows  */
+   tr:nth-child(odd){ 
+    background: #b8d1f3;
+}
+/*  Define the background color for all the EVEN background rows  */
+   tr:nth-child(even){
+    background: #dae5f4;
+}
 </style>
 
 ## About Me 
