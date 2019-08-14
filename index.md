@@ -26,6 +26,8 @@
     }
     header{
         background-image: url('/images/mandel.jpg');
+        border-bottom: 0px;
+        padding: 5em 0 5em 1em;
     }
     h2 {
         border-left: 5px solid #069;
