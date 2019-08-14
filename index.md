@@ -1,6 +1,6 @@
 {:.mycenter}
 ## [LinkedIn](https://www.linkedin.com/in/gabrielnm) | [GitHub](https://www.github.com/gmar1274) | [Resume.pdf](/docs/Resume_GabrielMartinez.pdf)
-
+{:.mycenter}
  ![Image of Gabriel](/images/gabriel.jpg){:style="text-align:center" :height="50%" width="50%"}
 <style>
 .mycenter {
