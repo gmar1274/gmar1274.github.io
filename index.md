@@ -13,7 +13,7 @@
         border-bottom: 0px;
         background: white;
     }
-    .mycenter th, td {
+    .mycenter td {
         text-align: center;
         padding: 5px 10px;
         border-bottom: 1px solid #aaa;
