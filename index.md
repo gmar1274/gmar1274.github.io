@@ -1,14 +1,16 @@
 {:.mycenter}
 ## [LinkedIn](https://www.linkedin.com/in/gabrielnm) | [GitHub](https://www.github.com/gmar1274) | [Resume.pdf](/docs/Resume_GabrielMartinez.pdf)
-{:.mycenter}
- ![Image of Gabriel](/images/gabriel.jpg){:height="50%" width="50%"}
+{:.myimage}
+![Image of Gabriel](/images/gabriel.jpg){:height="50%" width="50%" :background}
 <style>
 .mycenter {
     text-align:center;
 }
- p{
-   text-align:center;
+ .myimage{
+  text-align:center;
+  background-image: url('/images/mandel.jpg');
  }
+ 
 </style>
 ## About Me 
 First generation STEM graduate and an accomplished full stack software developer with professional experience in application development. Gabriel is currently open to discovering new opportunities that would allow him to further develop, learn, and hone in on skills that would help him grow his career in the software/IT industry. 
