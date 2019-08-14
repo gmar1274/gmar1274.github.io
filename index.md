@@ -1,5 +1,5 @@
 {:.mycenter}
-[LinkedIn](https://www.linkedin.com/in/gabrielnm) \| [GitHub](https://www.github.com/gmar1274) \| [Resume.pdf](/docs/Resume_GabrielMartinez.pdf)
+[LinkedIn](https://www.linkedin.com/in/gabrielnm) | [GitHub](https://www.github.com/gmar1274) | [Resume.pdf](/docs/Resume_GabrielMartinez.pdf)
 
 {:.myimage-center}
 
@@ -10,6 +10,7 @@
     text-align:center;
     font-size: 1.5em;
     font-weight: bold;
+    border-bottom: 0px;
 }
  .myimage-center{
   text-align:center;
@@ -120,9 +121,9 @@ Outside of the workplace, he enjoys listening to live music, drinking a nice cra
 - [ ] Next step is to buy a mini USB travel router and install OpenWrt along with OpenVpn so that I can connect all my extra devices to my travel router without needing to generate individual certificates and keys for each client devices.
 ```
 {: #misc}
-## Hobbies 
+## Miscellaneous 
 ---
-
+| **Hobbies** |
 | Live Music | Running | Hiking |
 | Reading Math Texts (yes really :nerd_face: ) | Craft beer | Food Festivals | 
 | **TV shows** |
