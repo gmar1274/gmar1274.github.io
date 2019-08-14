@@ -29,6 +29,9 @@
         border-bottom: 0px;
         padding: 5em 0 5em 1em;
     }
+    header ul{
+        top: 5em;
+    }
     h2 {
         border-left: 5px solid #069;
         padding: .25em;
