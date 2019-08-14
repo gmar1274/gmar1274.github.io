@@ -27,10 +27,10 @@
     header{
         background-image: url('/images/mandel.jpg');
         border-bottom: 0px;
-        padding: 5em 0 5em 1em;
+        padding: 4em 0 4em 1em;
     }
     header ul{
-        top: 5em;
+        top: 4em;
     }
     h2 {
         border-left: 5px solid #069;
