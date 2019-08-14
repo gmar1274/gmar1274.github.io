@@ -1,3 +1,5 @@
 theme: jekyll-theme-modernist
 title: Gabriel Martinez
 description: Personal projects and résumé
+plugins:
+  - jemoji
