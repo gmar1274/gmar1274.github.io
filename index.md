@@ -11,7 +11,6 @@
         font-size: 1.5em;
         font-weight: bold;
         border-bottom: 0px;
-        background: white;
     }
     .mycenter td {
         text-align: center;
@@ -20,7 +19,6 @@
     }
     .mycenter tr:nth-child(odd){ 
         text-align: center;
-        background: white;
     }
     .myimage-center{
         text-align:center;
@@ -57,6 +55,7 @@
     }
    body{
     background: lemonchiffon;
+    color: white;
    }
 </style>
 
