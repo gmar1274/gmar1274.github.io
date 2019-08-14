@@ -92,6 +92,7 @@ Outside of the workplace, he enjoys listening to live music, drinking a nice cra
 ### Live Music
 ### Running
 ### Hiking
+### Reading Math Texts (yes really 	:nerd_face: :nerd:)
 ### Craft beer
 ### TV shows:
 #### MasterChef, Ink Master, It's Always Sunny in Philadelphia, Workaholics, Rick and Morty
