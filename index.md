@@ -106,4 +106,4 @@ Outside of the workplace, he enjoys listening to live music, drinking a nice cra
 ### Craft beer
 ### Food Festivals
 ### TV shows:
-#### MasterChef, Ink Master, It's Always Sunny in Philadelphia, Workaholics, Rick and Morty
+#### MasterChef, Ink Master, Shark Tank It's Always Sunny in Philadelphia, Workaholics, Rick and Morty
