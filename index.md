@@ -24,19 +24,14 @@ Outside of the workplace, he enjoys listening to live music, drinking a nice cra
 ## Education
 
 2018--present | **M.S. Applied Mathematics**, *California State Polytechnic University, Pomona.* |
-2011--2016 | **B.S. Computer Science** (ABET Accredited), *California State Polytechnic University, Pomona.* 
-**Relevant Coursework:** Data Structures & Algorithms, Design and Analysis of Algorithms, Programming Graphical User Interfaces (GUI), Numerical Methods, Graph Theory, Computer Networks, Artificial Intelligence, Database Systems, Computer Organization and Assembly Programming. |
-2011--2016 | **Physics Minor**, *California State Polytechnic University, Pomona.*
-**Relevant Coursework:** General Physics, Intro to Electromagnetic Radiation and Special Relativity,
-Intro to Quantum Physics, Biophysics, Computational Physics (python programming using NumPy
-and SciPy modules), Differential Equations, Multivariable Calculus. |
-
+2011--2016 | **B.S. Computer Science** (ABET Accredited), *California State Polytechnic University, Pomona.* | **Relevant Coursework:** Data Structures & Algorithms, Design and Analysis of Algorithms, Programming Graphical User Interfaces (GUI), Numerical Methods, Graph Theory, Computer Networks, Artificial Intelligence, Database Systems, Computer Organization and Assembly Programming. |
+2011--2016 | **Physics Minor**, *California State Polytechnic University, Pomona.* | **Relevant Coursework:** General Physics, Intro to Electromagnetic Radiation and Special Relativity, Intro to Quantum Physics, Biophysics, Computational Physics (python programming using NumPy and SciPy modules), Differential Equations, Multivariable Calculus. |
 
 
 ## My Projects
 ---
-
-### Android TicTacToe Mobile Development {: #tictactoe} [View](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
+{: #tictactoe}
+### Android TicTacToe Mobile Development [View](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
 ```java
 - [x] Project Goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile development.
 
@@ -49,7 +44,8 @@ and SciPy modules), Differential Equations, Multivariable Calculus. |
 - [x] Third party API's consumed include Google's Firebase NoSQL and AdMob.
 ```
 
-### Android & iOS Mobile Development {: #android-ios} [View](https://github.com/gmar1274/Android-Firebase)
+{: #android-ios}
+### Android & iOS Mobile Development  [View](https://github.com/gmar1274/Android-Firebase)
 ```swift
 - [x] Project Goal was to recreate an app similar to Supercut's real-time reservation system.
 
@@ -61,8 +57,8 @@ and SciPy modules), Differential Equations, Multivariable Calculus. |
 
 - [x] Technologies used: Android Studio and Xcode IDE, DreamFactory REST API Platform for creating custom web APIs, JSON for encoding/  decoding microservices, MySQL, Google's Firebase NoSQL, and Amazon Web Services (AWS) EC2 instance to host the MySQL database.
 ```
-
-### C\# Windows Presentation Foundation (WPF) Development {: #wpf} [View](https://github.com/gmar1274/FTNTransport)
+{: #wpf} 
+### C\# Windows Presentation Foundation (WPF) Development [View](https://github.com/gmar1274/FTNTransport)
 ```c#
 - [x] Project goal was to create a WPF administrative inventory management dashboard  application for the independent trucking industry.
 
@@ -74,8 +70,8 @@ and SciPy modules), Differential Equations, Multivariable Calculus. |
 
 - [x] Technologies used: Microsoft Visual Studio IDE, XAML, MYSQL, PHP for custom web services, JSON for encoding/decoding PHP web services, and Amazon Web Services (AWS) EC2 instance for hosting the database and PHP web services.
 ```
-
-### Python Modeling - Senior Class Project {: #python} [View](https://github.com/gmar1274/ComputationalBiologyPhy409Project)
+{: #python}
+### Python Modeling - Senior Class Project [View](https://github.com/gmar1274/ComputationalBiologyPhy409Project)
 ```python
 - [x] Went above and beyond class requirements. Goal was to recreate research publication that models botanical life using the Lindenmayer System.
 
@@ -90,7 +86,8 @@ and SciPy modules), Differential Equations, Multivariable Calculus. |
 - [x] Technologies used: Eclipse IDE with the PyDev plugin for development.
 ```
 
-### Raspberry Pi - OpenVPN Server {: #raspberry-pi}
+{: #raspberry-pi}
+### Raspberry Pi - OpenVPN Server 
 ```bash
 - [x] Project goal was to host my own secure virtual private network (VPN) server		
 
@@ -104,7 +101,8 @@ and SciPy modules), Differential Equations, Multivariable Calculus. |
 
 - [ ] Next step is to buy a mini USB travel router and install OpenWrt along with OpenVpn so that I can connect all my extra devices to my travel router without needing to generate individual certificates and keys for each client devices.
 ```
-## Hobbies {: #misc}
+{: #misc}
+## Hobbies 
 ---
 ### Live Music
 ### Running
