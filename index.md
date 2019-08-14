@@ -11,7 +11,7 @@
     font-size: 1.5em;
     font-weight: bold;
     border-bottom: 0px;
-    background: 
+    background: white;
 }
  .myimage-center{
   text-align:center;
@@ -22,17 +22,16 @@
  h2 {
   border-left: 5px solid #069;
   padding: .25em;
-}
-  tr{
-    text-align: center;
-   }
+ }
 /*  Define the background color for all the ODD background rows  */
    tr:nth-child(odd){ 
+    text-align: center;
     background: #b8d1f3;
 }
 /*  Define the background color for all the EVEN background rows  */
    tr:nth-child(even){
-    background: #dae5f4;
+   background: #dae5f4;
+   text-align: center;
 }
 .wrapper{
     width: 80%;
@@ -133,6 +132,7 @@ Outside of the workplace, he enjoys listening to live music, drinking a nice cra
 {: #misc}
 ## Miscellaneous 
 ---
+
 | **Hobbies** |
 | Live Music | Running | Hiking |
 | Reading Math Texts (yes really :nerd_face: ) | Craft beer | Food Festivals | 
