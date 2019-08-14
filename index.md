@@ -11,6 +11,7 @@
     font-size: 1.5em;
     font-weight: bold;
     border-bottom: 0px;
+    background: 
 }
  .myimage-center{
   text-align:center;
@@ -32,6 +33,12 @@
 /*  Define the background color for all the EVEN background rows  */
    tr:nth-child(even){
     background: #dae5f4;
+}
+.wrapper{
+    width: 80%;
+    margin: 0 auto;
+    background: #ffffff;
+    border-radius: 8px;
 }
 </style>
 
