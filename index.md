@@ -1,12 +1,12 @@
 {:.mycenter}
 ## [LinkedIn](https://www.linkedin.com/in/gabrielnm) | [GitHub](https://www.github.com/gmar1274) | [Resume.pdf](/docs/Resume_GabrielMartinez.pdf)
 
-## ![Image of Gabriel](/images/gabriel.jpg){:.myimage}
+![Image of Gabriel](/images/gabriel.jpg){:.myimage}
 <style>
 .mycenter {
     text-align:center;
 }
- .myimage{
+ p.myimage{
   text-align:center;
   background-image: url('/images/mandel.jpg');
   height="50%";
