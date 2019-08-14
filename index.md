@@ -15,8 +15,12 @@
  header{
   background-image: url('/images/mandel.jpg');
  }
+ myheader {
+  border-left: 5px solid #069;
+}
  
 </style>
+{: .myheader}
 ## About Me 
 First generation STEM graduate and an accomplished full stack software developer with professional experience in application development. Gabriel is currently open to discovering new opportunities that would allow him to further develop, learn, and hone in on skills that would help him grow his career in the software/IT industry. 
 
@@ -24,13 +28,14 @@ As a former baseball player, Gabriel understands the value and importance of tea
 
 Outside of the workplace, he enjoys listening to live music, drinking a nice craft beer, and just recently got into fitness (running and hiking) to balance out the former. 
 
+{: .myheader}
 ## Education
 
 2018--present | **M.S. Applied Mathematics**, *California State Polytechnic University, Pomona.* | **Relevant Coursework:** Mathematical Modeling | 
 2011--2016 | **B.S. Computer Science** (ABET Accredited), *California State Polytechnic University, Pomona.* | **Relevant Coursework:** Data Structures & Algorithms, Design and Analysis of Algorithms, Programming Graphical User Interfaces (GUI), Numerical Methods, Graph Theory, Computer Networks, Artificial Intelligence, Database Systems, Computer Organization and Assembly Programming. |
 2011--2016 | **Physics Minor**, *California State Polytechnic University, Pomona.* | **Relevant Coursework:** General Physics, Intro to Electromagnetic Radiation and Special Relativity, Intro to Quantum Physics, Biophysics, Computational Physics (python programming using NumPy and SciPy modules), Differential Equations, Multivariable Calculus. |
 
-
+{: .myheader}
 ## My Projects
 ---
 {: #tictactoe}
@@ -106,6 +111,7 @@ Outside of the workplace, he enjoys listening to live music, drinking a nice cra
 ```
 {: #misc}
 ## Hobbies 
+{: .myheader}
 ---
 ### Live Music
 ### Running
