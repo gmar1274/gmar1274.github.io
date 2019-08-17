@@ -71,7 +71,7 @@
             width: 100%;
         }
         header{
-            padding: 0px;
+           padding: .9em;
         }
     }
    body{
