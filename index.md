@@ -151,7 +151,7 @@ Outside of the workplace, he enjoys listening to live music, drinking a nice cra
 
 - [x] Configured my TP-Link's firmware and installed OpenWrt on the device. 
 
-- [ ] Next step is to buy a mini USB travel router and install OpenWrt along with OpenVpn so that I can connect all my extra devices to my travel router without needing to generate individual certificates and keys for each client devices.
+- [ ] Next step is to buy a mini USB travel router and install OpenWrt along with OpenVpn so that I can connect all my extra devices to my travel router without needing to generate individual certificates and keys for each client device.
 ```
 {: #misc}
 ## Miscellaneous 
@@ -159,7 +159,7 @@ Outside of the workplace, he enjoys listening to live music, drinking a nice cra
 
 | **Hobbies** |
 | Live Music | Running | Hiking |
-| Reading Math Texts (yes really :nerd_face: ) | Craft beer | Food Festivals | 
+| Reading Math Texts (yes really ... :nerd_face: ) | Craft Beer | Food Festivals | 
 | **TV shows** |
 | MasterChef | Ink Master | Shark Tank | 
 | It's Always Sunny in Philadelphia | Workaholics | Rick and Morty |
