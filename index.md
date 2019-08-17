@@ -70,6 +70,9 @@
             box-shadow: none;
             width: 100%;
         }
+        header{
+            padding: 0px;
+        }
     }
    body{
     background: #eeeeee;
