@@ -6,7 +6,7 @@
 ![Image of Gabriel](/images/gabriel.jpg){:height="50%" width="50%"}
 
 <style>
-    h1{
+   header>h1{
         border-radius: .2em;
         display: inline-block;
         font-size: 2.2em;
