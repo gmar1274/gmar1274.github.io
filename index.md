@@ -6,15 +6,10 @@
 ![Image of Gabriel](/images/gabriel.jpg){:height="50%" width="50%"}
 
 <style>
-    h1{
-        background-color: #fce059;
-        border-radius: 1em;
-        padding: 1em; 
-    }
     h1, h1 + p {
         background-color: #fce059;
         border-radius: 1em;
-        padding: 1em; 
+        display: inline-block
     }
     .mycenter {
         text-align:center;
