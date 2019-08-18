@@ -86,7 +86,7 @@
 ## About Me 
 > I was born in Pomona, CA in 1993. I am a first generation STEM graduate and a professional full stack software developer. I enjoy developing applications and coding in general. When I'm not coding, I'm reading math texts and journals :nerd_face:. I'm currently open to discovering new opportunities that would further develop my skillset and continue to grow my career in the software/IT industry. 
 >
-> As a former baseball player, I understand the value and importance of teamwork. That is why I value team collaboration and a healthy team environment as my number one priority when job seeking.
+> As a former baseball player, I understand the value and importance of teamwork. That is why I value team collaboration and a healthy team environment as my number one criterion when job seeking.
 >
 > Outside of the workplace, I enjoy listening to live music, drinking a nice craft beer, and just recently got into fitness (running and hiking) to balance out the former. 
 
