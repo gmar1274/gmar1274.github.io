@@ -84,11 +84,11 @@
 </style>
 
 ## About Me 
-> I was born in Pomona, CA in 1993. I am a first generation STEM graduate and a professional full stack software developer. I enjoy developing applications and coding in general. When I'm not coding, I'm reading math texts and journals :nerd_face:. I'm currently open to discovering new opportunities that would further develop my skillset and continue to grow my career in the software/IT industry. 
+> I was born in Pomona, CA in 1993. I am a first generation STEM graduate and a professional full stack software developer. I enjoy developing applications and coding in general. When I'm not coding, I'm reading math texts and journals (yes really ... :nerd_face: ). I'm currently open to discovering new opportunities that would further develop my skillset and continue to grow my career in the software/IT industry. 
 >
 > As a former baseball player, I understand the value and importance of teamwork. That is why I value team collaboration and a healthy team environment as my number one criterion when job seeking.
 >
-> Outside of the workplace, I enjoy listening to live music, drinking a nice craft beer, and just recently got into fitness (running and hiking) to balance out the former. 
+> Outside of the workplace, I enjoy going out and listening to live music, drinking a nice craft beer, and just recently got into fitness (running and hiking) to balance out the former. 
 
 
 ## Education
@@ -177,7 +177,7 @@
 
 | **Hobbies** |
 | Live Music | Running | Hiking |
-| Reading Math Texts (yes really ... :nerd_face: ) | Craft Beer | Food Festivals | 
+| Reading Math Texts :nerd_face: | Craft Beer | Food Festivals | Going to Dodger games :baseball: |
 | **TV shows** |
 | MasterChef | Ink Master | Shark Tank | 
 | It's Always Sunny in Philadelphia | Workaholics | Rick and Morty |
