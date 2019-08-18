@@ -48,6 +48,9 @@
         border-left: 5px solid #069;
         padding: .25em;
     }
+    td{
+      vertical-align: top;
+   }
     /*  Define the background color for all the ODD background rows  */
     tr:nth-child(odd){ 
         text-align: center;
