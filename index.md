@@ -77,12 +77,12 @@
            padding: .9em;
         }
         pre{
-            padding: .25em;
+            margin: .25em;
             width: 100%;
          }
         table{
             width:100%;
-            padding: .25em;
+            margin: .25em;
         }
     }
    body{
