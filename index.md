@@ -78,8 +78,10 @@
         }
         pre{
             padding: .25em;
+            width: 100%;
          }
         table{
+            width:100%;
             padding: .25em;
         }
     }
