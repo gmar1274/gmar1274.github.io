@@ -76,6 +76,12 @@
         header{
            padding: .9em;
         }
+        pre{
+            padding: .25em;
+         }
+        table{
+            padding: .25em;
+        }
     }
    body{
     background: #eeeeee;
