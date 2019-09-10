@@ -86,6 +86,9 @@
             margin: .25em;
             padding:0px;
         }
+      th,td{
+         padding:.25em;   
+      }
     }
    body{
     background: #eeeeee;
