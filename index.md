@@ -6,6 +6,10 @@
 ![Image of Gabriel](/images/gabriel.jpg){:height="50%" width="50%"}
 
 <style>
+   pre{
+      padding:.5em;
+      margin: .25em;
+   }
    header>h1{
         border-radius: .2em;
         display: inline-block;
