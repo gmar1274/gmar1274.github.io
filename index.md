@@ -48,8 +48,12 @@
     header ul{
         top: 4em;
     }
-    h2,h3 {
+    h2 {
         border-left: 5px solid #069;
+        padding: .25em;
+        margin-top: .5em;
+    }
+   h3 {
         padding: .25em;
         margin-top: .5em;
     }
