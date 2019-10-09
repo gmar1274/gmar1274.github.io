@@ -104,10 +104,8 @@
     color: black;
    }
    p{
-      background-color:powderblue;
       font-family: times, serif; 
-      font-size: 14pt; 
-      font-style:italic;
+      font-size: 12pt;
    }
 </style>
 
