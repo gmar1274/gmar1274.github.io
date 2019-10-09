@@ -1,5 +1,5 @@
 {:.mycenter}
-[LinkedIn](https://www.linkedin.com/in/gabrielnm) | [GitHub](https://www.github.com/gmar1274) | [Resume.pdf](/docs/Resume_GabrielMartinez.pdf)
+[LinkedIn](https://www.linkedin.com/in/gabrielnm) | [GitHub](https://www.github.com/gmar1274) | [Resume.pdf](/docs/resume-Gabriel-Martinez.pdf)
 
 {:.myimage-center}
 
