@@ -104,7 +104,8 @@
     color: black;
    }
    p{
-      font-family: times, serif; 
+      padding: .25em;
+      margin: .5em; 
       font-size: 12pt;
    }
 </style>
