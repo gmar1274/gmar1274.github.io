@@ -107,16 +107,17 @@
       padding: .25em;
       margin: .5em; 
       font-size: 12pt;
+      font-family: Bookman;
    }
 </style>
 
 ## About Me 
 
-I am a first generation STEM graduate and professional JavaScript developer. I was born in Pomona, CA in 1993. I enjoy developing applications on all platforms and love learning and implementing new technologies. When I'm not coding, I'm reading math texts and journals (yes really ... :nerd_face: ). I'm currently open to discovering new opportunities that would marry my passion for coding and Information Technology.
+I am a first generation STEM graduate and professional JavaScript developer. I was born in Pomona, CA in 1993. I enjoy developing applications on all platforms, and love learning and implementing new technologies. When I'm not coding, I'm reading math texts and journals (yes really ... :nerd_face: ). I am currently open to discovering new opportunities that would marry my two passions for coding and Information Technology.
 
 As a former baseball player, I understand the value and importance of teamwork. That is why I value a healthy team environment as my number one criterion above all else. 
 
-Outside of work, I enjoy going out and listening to live music, exploring new cuisines, discovering new breweries, and just recently got into fitness (running and hiking) to balance out the former. 
+Outside of work, I enjoy going out and listening to live music, exploring the city for new cuisines, discovering new breweries, and just recently got into fitness (running and hiking) to balance out the former. 
 
 
 ## Education
