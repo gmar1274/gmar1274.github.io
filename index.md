@@ -120,6 +120,7 @@
 </style>
 
 ## About Me 
+---
 
 Welcome to my personal website! My name is Gabriel, and I am first in my family to graduate with a STEM degree. I am a professional JavaScript developer. I was born in Pomona, CA in 1993, taught myself how to code in high school, and been developing applications on all platforms ever since. When I am not coding, I am reading math textbooks (yes really ... :nerd_face: ) and researching new platforms and technologies. I am currently open to discovering new opportunities that would marry my two passions for coding and Information Technology.
 
@@ -129,6 +130,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 
 
 ## Education
+---
 
 2018--present | **M.S. Applied Mathematics**, *California State Polytechnic University, Pomona.* | **Relevant Coursework:** Mathematical Modeling | 
 2011--2016 | **B.S. Computer Science** (ABET Accredited), *California State Polytechnic University, Pomona.* | **Relevant Coursework:** Data Structures & Algorithms, Design and Analysis of Algorithms, Programming Graphical User Interfaces (GUI), Numerical Methods, Graph Theory, Computer Networks, Artificial Intelligence, Database Systems, Computer Organization and Assembly Programming. |
