@@ -3,7 +3,7 @@
 
 {:.myimage-center}
 
-![Image of Gabriel](/images/gabriel.jpg){:height="50%" width="50%"}
+![Image of Gabriel](/images/gabriel.jpg){:height="25%" width="25%"}
 
 <style>
    pre{
