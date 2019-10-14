@@ -103,6 +103,9 @@
            height: "50%";
            width: "50%";
        }
+      .mycenter {
+           font-size: 1em;
+       }
     }
    body{
     background: #eeeeee;
