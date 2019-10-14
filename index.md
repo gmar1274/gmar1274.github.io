@@ -2,8 +2,7 @@
 [LinkedIn](https://www.linkedin.com/in/gabrielnm) | [GitHub](https://www.github.com/gmar1274) | [Resume.pdf](/docs/resume-Gabriel-Martinez.pdf)
 
 {:.myimage-center}
-
-![Image of Gabriel](/images/gabriel.jpg){:height="25%" width="25%"}
+![Image of Gabriel](/images/gabriel.jpg)
 
 <style>
    pre{
@@ -39,6 +38,8 @@
     }
     .myimage-center{
         text-align:center;
+        height: "25%";
+        width: "25%";
     }
     header{
         background-image: url('/images/mandel.jpg');
@@ -98,6 +99,10 @@
       th,td{
          padding:.25em;   
       }
+      .myimage-center{
+           height: "50%";
+           width: "50%";
+       }
     }
    body{
     background: #eeeeee;
