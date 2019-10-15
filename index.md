@@ -37,7 +37,7 @@
     }
     .mycenter tr:nth-child(odd){ 
         text-align: center;
-        background: #fffef0;
+        background-color: white;
     }
     .myimage-center{
         text-align:center;
@@ -67,11 +67,11 @@
     /*  Define the background color for all the ODD background rows  */
     tr:nth-child(odd){ 
         text-align: center;
-        background: #b8d1f3;
+        background: #bcd8ff;
     }
     /*  Define the background color for all the EVEN background rows  */
     tr:nth-child(even){
-        background: #dae5f4;
+        background: #edf5ff;
         text-align: center;
     }
     .wrapper{
