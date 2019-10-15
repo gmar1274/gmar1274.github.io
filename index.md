@@ -1,5 +1,5 @@
 {:.mycenter}
-[@icon-linkedin-square LinkedIn](https://www.linkedin.com/in/gabrielnm) | [@icon-github-square GitHub](https://www.github.com/gmar1274) | [@icon-file Resume.pdf](/docs/resume-Gabriel-Martinez.pdf)
+[<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> LinkedIn](https://www.linkedin.com/in/gabrielnm) | [@icon-github-square GitHub](https://www.github.com/gmar1274) | [@icon-file Resume.pdf](/docs/resume-Gabriel-Martinez.pdf)
 
 {:.myimage-center}
 ![Image of Gabriel](/images/gabriel.jpg)
