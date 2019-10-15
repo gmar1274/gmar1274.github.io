@@ -1,12 +1,12 @@
 {:.mycenter}
-[<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/gabrielnm) | [<i class="fab fa-github-square"></i> GitHub](https://www.github.com/gmar1274) | [<i class="fas fa-file-pdf"></i> Resume.pdf](/docs/resume-Gabriel-Martinez.pdf)
+[<i class="fab fa-linkedin fa-7x"></i> LinkedIn](https://www.linkedin.com/in/gabrielnm) | [<i class="fab fa-github-square fa-7x"></i> GitHub](https://www.github.com/gmar1274) | [<i class="fas fa-file-pdf fa-7x"></i> Resume.pdf](/docs/resume-Gabriel-Martinez.pdf)
 
 {:.myimage-center}
 ![Image of Gabriel](/images/gabriel.jpg)
 
 <style>
    pre{
-      padding:.5em;
+      padding:1em;
       margin: .25em;
    }
    header>h1{
@@ -119,9 +119,9 @@
    }
 </style>
 
-## About Me 
+## About Me <i class="fas fa-code fa-5x"></i>
 ---
-
+<i class="fas fa-quote-left fa-2x fa-pull-left"></i>
 Welcome to my personal website! My name is Gabriel, and I am first in my family to graduate with a STEM degree. I am a professional JavaScript developer. I was born in Pomona, CA in 1993, taught myself how to code in high school, and been developing applications on all platforms ever since. When I am not coding, I am reading math textbooks (yes really ... :nerd_face: ) and researching new platforms and technologies. I am currently open to discovering new opportunities that would marry my two passions for coding and Information Technology.
 
 As a former baseball player, I understand the value and importance of teamwork. That is why I value a healthy team environment as my number one criterion above all else. 
@@ -129,7 +129,7 @@ As a former baseball player, I understand the value and importance of teamwork. 
 Outside of work, (and outside of coding for fun) I enjoy going out and listening to live music, exploring the city for new cuisines, discovering new breweries, and just recently got into fitness (running and hiking) to balance out the former. 
 
 
-## Education
+## Education <i class="fas fa-user-graduate fa-5x"></i>
 ---
 
 2018--present | **M.S. Applied Mathematics**, *California State Polytechnic University, Pomona.* | **Relevant Coursework:** Mathematical Modeling | 
@@ -137,7 +137,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 2011--2016 | **Physics Minor**, *California State Polytechnic University, Pomona.* | **Relevant Coursework:** General Physics, Intro to Electromagnetic Radiation and Special Relativity, Intro to Quantum Physics, Biophysics, Computational Physics (python programming using NumPy and SciPy modules), Differential Equations, Multivariable Calculus. |
 
 
-## My Projects
+## My Projects <i class="fas fa-laptop-code fa-5x"></i>
 ---
 {: #tictactoe}
 ### Android TicTacToe Mobile Development [View](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
@@ -211,12 +211,12 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [ ] Next step is to buy a mini USB travel router and install OpenWrt along with OpenVpn so that I can connect all my extra devices to my travel router without needing to generate individual certificates and keys for each client device.
 ```
 {: #misc}
-## Miscellaneous 
+## Miscellaneous <i class="fas fa-cogs fa-5x fa-spin"></i>
 ---
 
-| **Hobbies** |
+| **Hobbies** <i class="fas fa-gamepad"></i>|
 | Live Music | Running | Hiking |
 | Reading Math Texts :nerd_face: | Craft Beer | Food Festivals | Going to Dodger games :baseball: |
-| **TV shows** |
+| **TV shows** <i class="fas fa-tv"></i>|
 | MasterChef | Ink Master | Shark Tank | 
 | It's Always Sunny in Philadelphia | Workaholics | Rick and Morty |
