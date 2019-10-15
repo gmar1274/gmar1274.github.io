@@ -74,7 +74,7 @@
     .wrapper{
         width: 80%;
         margin: 0 auto;
-        background: #fffef0;
+        background-color: white;
         border-radius: 8px;
     }
     @media print, screen and (max-width: 740px){
@@ -111,7 +111,7 @@
             padding:0em;
        }
    body{
-    background: #eeeeee;
+    background-color: white;
     color: black;
    }
    p{
