@@ -104,7 +104,8 @@
            width: "50%";
        }
       .mycenter {
-           font-size: 1em;
+           font-size: 1.5em;
+           padding:.25em;   
        }
       .fa-border {
             padding:0em;
@@ -199,7 +200,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 ```
 
 {: #raspberry-pi}
-### Raspberry Pi - OpenVPN Server 
+### Raspberry Pi - OpenVPN Server <i class="fab fa-raspberry-pi"></i>
 ```bash
 - [x] Project goal was to host my own secure virtual private network (VPN) server		
 
