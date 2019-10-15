@@ -5,6 +5,9 @@
 ![Image of Gabriel](/images/gabriel.jpg)
 
 <style>
+   body{
+      background-color: white;
+   }
    pre{
       padding:1em;
       margin: .25em;
