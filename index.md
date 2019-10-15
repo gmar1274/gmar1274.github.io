@@ -126,7 +126,8 @@ Welcome to my personal website! My name is Gabriel, and I am first in my family 
 
 As a former baseball player, I understand the value and importance of teamwork. That is why I value a healthy team environment as my number one criterion above all else. 
 
-Outside of work, (and outside of coding for fun) I enjoy going out and listening to live music, exploring the city for new cuisines, discovering new breweries, and just recently got into fitness (running and hiking) to balance out the former. 
+Outside of work, (and outside of coding for fun) I enjoy going out and listening to live music, exploring the city for new cuisines, discovering new breweries, and just recently got into fitness (running and hiking) to balance out the former. <i class="fas fa-quote-right fa-2x fa-pull-right"></i>
+
 
 
 ## Education  <i class="fas fa-user-graduate"></i>
