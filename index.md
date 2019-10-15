@@ -119,7 +119,7 @@
    }
 </style>
 
-## About Me <i class="fas fa-code"></i>
+## About Me  <i class="fas fa-code"></i>
 ---
 <i class="fas fa-quote-left fa-2x fa-pull-left"></i>
 Welcome to my personal website! My name is Gabriel, and I am first in my family to graduate with a STEM degree. I am a professional JavaScript developer. I was born in Pomona, CA in 1993, taught myself how to code in high school, and been developing applications on all platforms ever since. When I am not coding, I am reading math textbooks (yes really ... :nerd_face: ) and researching new platforms and technologies. I am currently open to discovering new opportunities that would marry my two passions for coding and Information Technology.
@@ -129,7 +129,7 @@ As a former baseball player, I understand the value and importance of teamwork. 
 Outside of work, (and outside of coding for fun) I enjoy going out and listening to live music, exploring the city for new cuisines, discovering new breweries, and just recently got into fitness (running and hiking) to balance out the former. 
 
 
-## Education <i class="fas fa-user-graduate"></i>
+## Education  <i class="fas fa-user-graduate"></i>
 ---
 
 2018--present | **M.S. Applied Mathematics**, *California State Polytechnic University, Pomona.* | **Relevant Coursework:** Mathematical Modeling | 
@@ -137,10 +137,10 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 2011--2016 | **Physics Minor**, *California State Polytechnic University, Pomona.* | **Relevant Coursework:** General Physics, Intro to Electromagnetic Radiation and Special Relativity, Intro to Quantum Physics, Biophysics, Computational Physics (python programming using NumPy and SciPy modules), Differential Equations, Multivariable Calculus. |
 
 
-## My Projects <i class="fas fa-laptop-code"></i>
+## My Projects  <i class="fas fa-laptop-code"></i>
 ---
 {: #tictactoe}
-### Android TicTacToe Mobile Development [<i class="fab fa-github-square"></i>View](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
+### Android TicTacToe Mobile Development [View <i class="fab fa-github"></i>](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
 ```java
 - [x] Project Goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile development.
 
@@ -154,7 +154,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 ```
 
 {: #android-ios}
-### Android & iOS Mobile Development  [<i class="fab fa-github-square"></i>View](https://github.com/gmar1274/Android-Firebase)
+### Android & iOS Mobile Development  [View <i class="fab fa-github"></i>](https://github.com/gmar1274/Android-Firebase)
 ```swift
 - [x] Project Goal was to recreate an app similar to Supercut's real-time reservation system.
 
@@ -167,7 +167,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [x] Technologies used: Android Studio and Xcode IDE, DreamFactory REST API Platform for creating custom web APIs, JSON for encoding/  decoding microservices, MySQL, Google's Firebase NoSQL, and Amazon Web Services (AWS) EC2 instance to host the MySQL database.
 ```
 {: #wpf} 
-### C\# Windows Presentation Foundation (WPF) Development [<i class="fab fa-github-square"></i>View](https://github.com/gmar1274/FTNTransport)
+### C\# Windows Presentation Foundation (WPF) Development [View <i class="fab fa-github"></i>](https://github.com/gmar1274/FTNTransport)
 ```c#
 - [x] Project goal was to create a WPF administrative inventory management dashboard  application for the independent trucking industry.
 
@@ -180,7 +180,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [x] Technologies used: Microsoft Visual Studio IDE, XAML, MYSQL, PHP for custom web services, JSON for encoding/decoding PHP web services, and Amazon Web Services (AWS) EC2 instance for hosting the database and PHP web services.
 ```
 {: #python}
-### Python Modeling - Senior Class Project [<i class="fab fa-github-square"></i>View](https://github.com/gmar1274/ComputationalBiologyPhy409Project)
+### Python Modeling - Senior Class Project [View <i class="fab fa-github"></i>](https://github.com/gmar1274/ComputationalBiologyPhy409Project)
 ```python
 - [x] Went above and beyond class requirements. Goal was to recreate research publication that models botanical life using the Lindenmayer System.
 
