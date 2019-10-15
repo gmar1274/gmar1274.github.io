@@ -106,10 +106,9 @@
       .mycenter {
            font-size: 1em;
        }
-   .fa-border {
-    border: .08em solid #eee;
-    border-radius: .1em;
-    }
+      .fa-border {
+            padding:0em;
+       }
    body{
     background: #eeeeee;
     color: black;
