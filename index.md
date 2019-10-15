@@ -52,7 +52,7 @@
     h2 {
         border-left: 5px solid #069;
         padding: .25em;
-        margin-top: .5em;
+        margin-top: 2.5em;
     }
    h3 {
         padding: .25em;
