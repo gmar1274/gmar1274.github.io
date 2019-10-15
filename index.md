@@ -1,5 +1,5 @@
 {:.mycenter}
-[<i class="fab fa-linkedin"></i>LinkedIn](https://www.linkedin.com/in/gabrielnm) | [<i class="fab fa-github-square"></i>GitHub](https://www.github.com/gmar1274) | [<i class="fas fa-file"></i>Resume.pdf](/docs/resume-Gabriel-Martinez.pdf)
+[@fab fa-linkedin LinkedIn](https://www.linkedin.com/in/gabrielnm) | [@fab fa-github-square GitHub](https://www.github.com/gmar1274) | [@fas fa-file Resume.pdf](/docs/resume-Gabriel-Martinez.pdf)
 
 {:.myimage-center}
 ![Image of Gabriel](/images/gabriel.jpg)
