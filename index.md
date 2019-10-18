@@ -139,20 +139,9 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 ## Education  <i class="fas fa-user-graduate"></i>
 ---
 
-| 2018--present | **M.S. Applied Mathematics**, *California State Polytechnic University, Pomona.* 
-| **Relevant Coursework:** 1. Mathematical Modeling |
+| 2018--present | **M.S. Applied Mathematics**, *California State Polytechnic University, Pomona.* | **Relevant Coursework:** Mathematical Modeling |
 |---------------|
-| 2011--2016 | **B.S. Computer Science** (ABET Accredited), *California State Polytechnic University, Pomona.*
-| **Relevant Coursework:** 
- 1. Artificial Intelligence 
- 2. Computer Networks 
- 3. Database Systems 
- 4. Programming Graphical User Interfaces (GUI) 
- 5. Computer Organization and Assembly Programming 
- 6. Data Structures & Algorithms 
- 7. Design and Analysis of Algorithms 
- 8. Numerical Methods 
- 9. Graph Theory |
+| 2011--2016 | **B.S. Computer Science** (ABET Accredited), *California State Polytechnic University, Pomona.* | **Relevant Coursework:** Artificial Intelligence, Computer Networks, Database Systems, Programming Graphical User Interfaces (GUI), Computer Organization and Assembly Programming, Data Structures & Algorithms, Design and Analysis of Algorithms, Numerical Methods, Graph Theory |
 |---------------|
 | 2011--2016 | **Physics Minor**, *California State Polytechnic University, Pomona.*
 | **Relevant Coursework:**
