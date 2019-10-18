@@ -147,7 +147,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 ## My Projects  <i class="fas fa-laptop-code"></i>
 ---
 {: #medicine-reminder}
-### Android Mobile App - Medicine Reminder ![logo](https://github.com/gmar1274/MedicineReminder/blob/master/app/src/main/ic_launcher-web.png?raw=true) [View <i class="fab fa-github"></i>](https://github.com/gmar1274/MedicineReminder)
+### Android Mobile App - Medicine Reminder ![logo](https://github.com/gmar1274/MedicineReminder/blob/master/app/src/main/ic_launcher-web.png?raw=true){:height="50px" width="50px"} [View <i class="fab fa-github"></i>](https://github.com/gmar1274/MedicineReminder)
 ```java
 - [x] Project goal was to create a really straightforward app to keep a history of all medications consumed.
 - [x] What I needed was a simple app to keep a record of the medications I was taking and when I last took it. (I just got a tonsillectomy done Oct. 7th 2019)
