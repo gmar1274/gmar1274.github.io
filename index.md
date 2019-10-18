@@ -7,6 +7,7 @@
 <style>
    th,td{
       font-weight: 100;
+      vertical-align: top;
    }
    body{
       background-color: white;
