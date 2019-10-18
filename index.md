@@ -70,7 +70,7 @@
     /*  Define the background color for all the ODD background rows  */
     tr:nth-child(odd){ 
         text-align: center;
-        background: #bcd8ff;
+        background: #fbfcff;
     }
     /*  Define the background color for all the EVEN background rows  */
     tr:nth-child(even){
