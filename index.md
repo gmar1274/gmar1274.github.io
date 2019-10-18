@@ -140,14 +140,13 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 ---
 | 2018--present | **M.S. Applied Mathematics**, *California State Polytechnic University, Pomona.* | **Relevant Coursework:** Mathematical Modeling |
 2011--2016 | **B.S. Computer Science** (ABET Accredited), *California State Polytechnic University, Pomona.* | **Relevant Coursework:** Artificial Intelligence, Computer Networks, Database Systems, Programming Graphical User Interfaces (GUI), Computer Organization and Assembly Programming, Data Structures & Algorithms, Design and Analysis of Algorithms, Numerical Methods, Graph Theory | 
-|-----------------+------------+-----------------|
-| 2011--2016 | **Physics Minor**, *California State Polytechnic University, Pomona.*| **Relevant Coursework:** Biophysics, Computational Physics (python programming using NumPy and SciPy modules), Intro to Electromagnetic Radiation and Special Relativity, Intro to Quantum Physics, General Physics, Differential Equations, Multivariable Calculus |
+2011--2016 | **Physics Minor**, *California State Polytechnic University, Pomona.*| **Relevant Coursework:** Biophysics, Computational Physics (python programming using NumPy and SciPy modules), Intro to Electromagnetic Radiation and Special Relativity, Intro to Quantum Physics, General Physics, Differential Equations, Multivariable Calculus |
 
 
 ## My Projects  <i class="fas fa-laptop-code"></i>
 ---
 {: #medicine-reminder}
-### Android Mobile App - Medicine Reminder ![logo](https://github.com/gmar1274/MedicineReminder/blob/master/app/src/main/ic_launcher-web.png?raw=true){:height="50px" width="50px"} [View <i class="fab fa-github"></i>](https://github.com/gmar1274/MedicineReminder)
+### Android Mobile App - Medicine Reminder [![logo](https://github.com/gmar1274/MedicineReminder/blob/master/app/src/main/ic_launcher-web.png?raw=true){:height="50px" width="50px vertical-align:middle"} View <i class="fab fa-github"></i>](https://github.com/gmar1274/MedicineReminder)
 ```java
 - [x] Project goal was to create a really straightforward app to keep a history of all medications consumed.
 - [x] What I needed was a simple app to keep a record of the medications I was taking and when I last took it. (I just got a tonsillectomy done Oct. 7th 2019)
