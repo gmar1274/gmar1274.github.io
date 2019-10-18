@@ -146,10 +146,17 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 
 ## My Projects  <i class="fas fa-laptop-code"></i>
 ---
+{: #medicine-reminder}
+### Android Mobile App - Medicine Reminder ![logo](../MedicineReminder/app/src/main/ic_launcher-web.png) [View <i class="fab fa-github"></i>](https://github.com/gmar1274/MedicineReminder)
+```java
+- [x] Project goal was to create a really straightforward medicine logging app.
+- [x] What I needed was a simple app to just keep a record of the medications I was taking and when I last took it. (I just got a tonsillectomy done Oct. 7th 2019)
+- [] Next step is to implement a *reminding* function to alert the user when it's time to take the next dosage of medication.
+```
 {: #tictactoe}
 ### Android TicTacToe Mobile Development [View <i class="fab fa-github"></i>](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
 ```java
-- [x] Project Goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile development.
+- [x] Project goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile development.
 
 - [x] Implemented native animation libraries and media player.
 
@@ -163,7 +170,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 {: #android-ios}
 ### Android & iOS Mobile Development  [View <i class="fab fa-github"></i>](https://github.com/gmar1274/Android-Firebase)
 ```swift
-- [x] Project Goal was to recreate an app similar to Supercut's real-time reservation system.
+- [x] Project goal was to recreate an app similar to Supercut's real-time reservation system.
 
 - [x] Project to demonstrate proficiency with the Android and iOS SDK native mobile development,life cycle, and Model View Controller architecture (MVC).
 
@@ -187,8 +194,10 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [x] Technologies used: Microsoft Visual Studio IDE, XAML, MYSQL, PHP for custom web services, JSON for encoding/decoding PHP web services, and Amazon Web Services (AWS) EC2 instance for hosting the database and PHP web services.
 ```
 {: #python}
-### Python Modeling - Senior Class Project [View <i class="fab fa-github"></i>](https://github.com/gmar1274/ComputationalBiologyPhy409Project)
+### Python Modeling - Senior Class Project Computational Physics PHY 409 [View <i class="fab fa-github"></i>](https://github.com/gmar1274/ComputationalBiologyPhy409Project)
 ```python
+- [x] Project goal was to model biological growth using the Lindenmayer System.
+
 - [x] Went above and beyond class requirements. Goal was to recreate research publication that models botanical life using the Lindenmayer System.
 
 - [x] Class project that demonstrate proficiency in Python and computational physics modeling.
