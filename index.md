@@ -147,11 +147,14 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 ## My Projects  <i class="fas fa-laptop-code"></i>
 ---
 {: #medicine-reminder}
-### Android Mobile App - Medicine Reminder ![logo](../MedicineReminder/app/src/main/ic_launcher-web.png) [View <i class="fab fa-github"></i>](https://github.com/gmar1274/MedicineReminder)
+### Android Mobile App - Medicine Reminder ![logo](https://github.com/gmar1274/MedicineReminder/blob/master/app/src/main/ic_launcher-web.png) [View <i class="fab fa-github"></i>](https://github.com/gmar1274/MedicineReminder)
 ```java
 - [x] Project goal was to create a really straightforward medicine logging app.
 - [x] What I needed was a simple app to just keep a record of the medications I was taking and when I last took it. (I just got a tonsillectomy done Oct. 7th 2019)
-- [] Next step is to implement a *reminding* function to alert the user when it's time to take the next dosage of medication.
+- [x] This is an offline app, however it implements Android's Room persistence library which provides an abstraction layer over SQLite to allow for more robust database access while harnessing the full power of SQLite.
+- [x] I also added Google's AdMob so that I can add an advertising banner to my app for revune potential.
+- [ ] Google Play Store link: *upcoming*
+- [ ] Next step is to implement a *reminding* function to alert the user when it's time to take the next dosage of medication.
 ```
 {: #tictactoe}
 ### Android TicTacToe Mobile Development [View <i class="fab fa-github"></i>](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
