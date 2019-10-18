@@ -139,17 +139,8 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 ## Education  <i class="fas fa-user-graduate"></i>
 ---
 
-| 2018--present | **M.S. Applied Mathematics**, *California State Polytechnic University, Pomona.* | **Relevant Coursework:** Mathematical Modeling
-| 2011--2016 | **B.S. Computer Science** (ABET Accredited), *California State Polytechnic University, Pomona.* | **Relevant Coursework:** Artificial Intelligence, Computer Networks, Database Systems, Programming Graphical User Interfaces (GUI), Computer Organization and Assembly Programming, Data Structures & Algorithms, Design and Analysis of Algorithms, Numerical Methods, Graph Theory 
-| 2011--2016 | **Physics Minor**, *California State Polytechnic University, Pomona.*
-| **Relevant Coursework:**
- 1. Biophysics 
- 2. Computational Physics (python programming using NumPy and SciPy modules) 
- 3. Intro to Electromagnetic Radiation and Special Relativity 
- 4. Intro to Quantum Physics 
- 5. General Physics 
- 6. Differential Equations 
- 7. Multivariable Calculus |
+2018--present | **M.S. Applied Mathematics**, *California State Polytechnic University, Pomona.* | **Relevant Coursework:** Mathematical Modeling| 2011--2016 | **B.S. Computer Science** (ABET Accredited), *California State Polytechnic University, Pomona.* | **Relevant Coursework:** Artificial Intelligence, Computer Networks, Database Systems, Programming Graphical User Interfaces (GUI), Computer Organization and Assembly Programming, Data Structures & Algorithms, Design and Analysis of Algorithms, Numerical Methods, Graph Theory 
+| 2011--2016 | **Physics Minor**, *California State Polytechnic University, Pomona.*| **Relevant Coursework:** 1. Biophysics 2. Computational Physics (python programming using NumPy and SciPy modules) 3. Intro to Electromagnetic Radiation and Special Relativity 4. Intro to Quantum Physics 5. General Physics 6. Differential Equations 7. Multivariable Calculus
 
 
 ## My Projects  <i class="fas fa-laptop-code"></i>
