@@ -87,6 +87,10 @@
    img{
       vertical-align: middle;
    }
+   is-visible {
+      opacity: 1;
+      transition: opacity .5s .25s ease-out;
+   }
     @media print, screen and (max-width: 740px){
         .wrapper {
             border-radius: 0;
