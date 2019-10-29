@@ -146,7 +146,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 {: .show-on-scroll}
 ## Education  <i class="fas fa-user-graduate"></i>
 ---
-{: .show-on-scroll}
+
 2018--present | **M.S.** | **Applied Mathematics**, <br/> *California State Polytechnic University, Pomona.* | **Relevant Coursework:** <br/> Mathematical Modeling | 
 |---------|
 2011--2016 | **B.S** | **Computer Science**<br/> (ABET Accredited), *California State Polytechnic University, Pomona.* | **Relevant Coursework:** <br/> Artificial Intelligence, Computer Networks, Database Systems, Programming Graphical User Interfaces (GUI), Computer Organization and Assembly Programming, Data Structures & Algorithms, Design and Analysis of Algorithms, Numerical Methods, Graph Theory | 
@@ -243,7 +243,6 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 {: #misc .show-on-scroll}
 ## Miscellaneous <i class="fas fa-cogs fa-spin"></i>
 ---
-{: .show-on-scroll}
 | **Hobbies** <i class="fas fa-gamepad"></i>|
 | live music <i class="fas fa-icons"></i> | running <i class="fas fa-running"></i>| hiking <i class="fas fa-hiking"></i> |
 | reading math books :nerd_face: | craft beer <i class="fas fa-beer"></i> | food festivals <i class="fas fa-utensils"></i>| Going to Dodger games :baseball: |
