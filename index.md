@@ -1,7 +1,7 @@
 {:.mycenter}
 [<i class="fab fa-linkedin fa-border"></i> LinkedIn](https://www.linkedin.com/in/gabrielnm) | [<i class="fab fa-github-square  fa-border"></i> GitHub](https://www.github.com/gmar1274) | [<i class="fas fa-file-pdf fa-border"></i> Resume](/docs/resume.pdf)
 
-{:.myimage-center}
+{:.myimage-center .show-on-scroll}
 ![Image of Gabriel](/images/gabriel.jpg)
 
 <style>
@@ -131,9 +131,10 @@
       font-family: Bookman;
    }
 </style>
-
+{: .show-on-scroll}
 ## About Me  <i class="fas fa-code"></i>
 ---
+{: .show-on-scroll}
 <i class="fas fa-quote-left fa-2x fa-pull-left"></i>
 Welcome to my personal website! My name is Gabriel, and I am first in my family to graduate with a STEM degree. I am a professional JavaScript developer. I was born in Pomona, CA in 1993, taught myself how to code in high school, and been developing applications on all platforms ever since. When I am not coding, I am reading math textbooks (yes really ... :nerd_face: ) and researching new platforms and technologies. I am currently open to discovering new opportunities that would marry my two passions for coding and Information Technology.
 
@@ -142,20 +143,20 @@ As a former baseball player, I understand the value and importance of teamwork. 
 Outside of work, (and outside of coding for fun) I enjoy going out and listening to live music, exploring the city for new cuisines, discovering new breweries, and just recently got into fitness (running and hiking) to balance out the former. <i class="fas fa-quote-right fa-2x fa-pull-right"></i>
 
 
-
+{: .show-on-scroll}
 ## Education  <i class="fas fa-user-graduate"></i>
 ---
-
+{: .show-on-scroll}
 2018--present | **M.S.** | **Applied Mathematics**, <br/> *California State Polytechnic University, Pomona.* | **Relevant Coursework:** <br/> Mathematical Modeling | 
 |---------|
 2011--2016 | **B.S** | **Computer Science**<br/> (ABET Accredited), *California State Polytechnic University, Pomona.* | **Relevant Coursework:** <br/> Artificial Intelligence, Computer Networks, Database Systems, Programming Graphical User Interfaces (GUI), Computer Organization and Assembly Programming, Data Structures & Algorithms, Design and Analysis of Algorithms, Numerical Methods, Graph Theory | 
 |---------|
 2011--2016 | **Minor** | **Physics**,<br/> *California State Polytechnic University, Pomona.*| **Relevant Coursework:** <br/> Biophysics, Computational Physics (python programming using NumPy and SciPy modules), Intro to Electromagnetic Radiation and Special Relativity, Intro to Quantum Physics, General Physics, Differential Equations, Multivariable Calculus |
 
-
+{: .show-on-scroll}
 ## My Projects  <i class="fas fa-laptop-code"></i>
 ---
-{: #medicine-reminder}
+{: #medicine-reminder .show-on-scroll}
 ### Android Mobile App - Medicine Reminder [![logo](https://github.com/gmar1274/MedicineReminder/blob/master/app/src/main/ic_launcher-web.png?raw=true){:height="50px" width="50px vertical-align:middle"} View <i class="fab fa-github"></i>](https://github.com/gmar1274/MedicineReminder)
 ~~~java
 - [x] Project goal was to create a really straightforward app to keep a history of all medications consumed.
@@ -166,7 +167,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [ ] Google Play Store link: *upcoming*
 - [ ] Next step is to implement a *reminding* function to alert the user when it's time to take the next dosage of medication.
 ~~~
-{: #tictactoe}
+{: #tictactoe .show-on-scroll}
 ### Android TicTacToe Mobile Development [View <i class="fab fa-github"></i>](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
 ```java
 - [x] Project goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile development.
@@ -180,7 +181,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [x] Third party API's consumed include Google's Firebase NoSQL and AdMob.
 ```
 
-{: #android-ios}
+{: #android-ios .show-on-scroll}
 ### Android & iOS Mobile Development  [View <i class="fab fa-github"></i>](https://github.com/gmar1274/Android-Firebase)
 ```swift
 - [x] Project goal was to recreate an app similar to Supercut's real-time reservation system.
@@ -193,7 +194,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 
 - [x] Technologies used: Android Studio and Xcode IDE, DreamFactory REST API Platform for creating custom web APIs, JSON for encoding/  decoding microservices, MySQL, Google's Firebase NoSQL, and Amazon Web Services (AWS) EC2 instance to host the MySQL database.
 ```
-{: #wpf} 
+{: #wpf .show-on-scroll} 
 ### C\# Windows Presentation Foundation (WPF) Development [View <i class="fab fa-github"></i>](https://github.com/gmar1274/FTNTransport)
 ```c#
 - [x] Project goal was to create a WPF administrative inventory management dashboard  application for the independent trucking industry.
@@ -206,7 +207,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 
 - [x] Technologies used: Microsoft Visual Studio IDE, XAML, MYSQL, PHP for custom web services, JSON for encoding/decoding PHP web services, and Amazon Web Services (AWS) EC2 instance for hosting the database and PHP web services.
 ```
-{: #python}
+{: #python .show-on-scroll}
 ### Python Modeling - Senior Class Project Computational Physics PHY 409 [View <i class="fab fa-github"></i>](https://github.com/gmar1274/ComputationalBiologyPhy409Project)
 ```python
 - [x] Project goal was to model biological growth using the Lindenmayer System.
@@ -224,7 +225,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [x] Technologies used: Eclipse IDE with the PyDev plugin for development.
 ```
 
-{: #raspberry-pi}
+{: #raspberry-pi .show-on-scroll}
 ### Raspberry Pi - OpenVPN Server <i class="fab fa-raspberry-pi"></i>
 ```bash
 - [x] Project goal was to host my own secure virtual private network (VPN) server		
@@ -239,10 +240,10 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 
 - [ ] Next step is to buy a mini USB travel router and install OpenWrt along with OpenVpn so that I can connect all my extra devices to my travel router without needing to generate individual certificates and keys for each client device.
 ```
-{: #misc}
+{: #misc .show-on-scroll}
 ## Miscellaneous <i class="fas fa-cogs fa-spin"></i>
 ---
-
+{: .show-on-scroll}
 | **Hobbies** <i class="fas fa-gamepad"></i>|
 | live music <i class="fas fa-icons"></i> | running <i class="fas fa-running"></i>| hiking <i class="fas fa-hiking"></i> |
 | reading math books :nerd_face: | craft beer <i class="fas fa-beer"></i> | food festivals <i class="fas fa-utensils"></i>| Going to Dodger games :baseball: |
