@@ -243,9 +243,9 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 {: #misc .show-on-scroll}
 ## Miscellaneous <i class="fas fa-cogs fa-spin"></i>
 ---
-| **Hobbies** <i class="fas fa-gamepad"></i> |
+ **Hobbies** <i class="fas fa-gamepad"></i> |
 | live music <i class="fas fa-icons"></i> | running <i class="fas fa-running"></i> | hiking <i class="fas fa-hiking"></i> |
 | reading math books :nerd_face: | craft beer <i class="fas fa-beer"></i> | food festivals <i class="fas fa-utensils"></i> | Going to Dodger games :baseball: |
-| **TV shows** <i class="fas fa-tv"></i> |
+ **TV shows** <i class="fas fa-tv"></i> |
 | MasterChef | Ink Master | Shark Tank | 
 | It's Always Sunny in Philadelphia | Workaholics | Rick and Morty |
