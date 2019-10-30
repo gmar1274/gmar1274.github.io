@@ -1,7 +1,7 @@
 {:.mycenter}
 [<i class="fab fa-linkedin fa-border"></i> LinkedIn](https://www.linkedin.com/in/gabrielnm) | [<i class="fab fa-github-square  fa-border"></i> GitHub](https://www.github.com/gmar1274) | [<i class="fas fa-file-pdf fa-border"></i> Resume](/docs/resume.pdf)
 
-{:.myimage-center .show-on-scroll}
+{:.myimage-center wow headShake}
 ![Image of Gabriel](/images/gabriel.jpg)
 
 <style>
@@ -60,10 +60,6 @@
         border-left: 5px solid #069;
         padding: .25em;
         margin-top: 2.5em; 
-        opacity: 0;
-        transform: translateY(4em) rotateZ(-5deg);
-        transition: transform 4s .25s cubic-bezier(0,1,.3,1),
-              opacity .3s .25s ease-out;
     }
    h3 {
         padding: .25em;
