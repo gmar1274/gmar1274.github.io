@@ -91,7 +91,7 @@
    img{
       vertical-align: middle;
    }
-   is-visible {
+   is-visible,  show-on-scroll {
       opacity: 1;
       transition: opacity .5s .25s ease-out;
    }
