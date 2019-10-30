@@ -59,7 +59,11 @@
     h2 {
         border-left: 5px solid #069;
         padding: .25em;
-        margin-top: 2.5em;
+        margin-top: 2.5em; 
+        opacity: 0;
+        transform: translateY(4em) rotateZ(-5deg);
+        transition: transform 4s .25s cubic-bezier(0,1,.3,1),
+              opacity .3s .25s ease-out;
     }
    h3 {
         padding: .25em;
