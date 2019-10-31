@@ -55,7 +55,6 @@
         text-align:center;
         height: "25%";
         width: "25%";
-        outline: 1px solid black;
     }
     header{
         background-image: url('/images/mandel.jpg');
@@ -97,9 +96,10 @@
       vertical-align: middle;
    }
     @media print, screen and (max-width: 740px){
-      .mycenter td {
-           font-size: 1em;
-       }
+         .poloroid{
+            border-width: 0.75em;
+            border-bottom-width: 1.50em;
+         }
         .wrapper {
             border-radius: 0;
             box-shadow: none;
