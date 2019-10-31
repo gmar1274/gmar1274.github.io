@@ -9,8 +9,8 @@
       outline: 1px solid black;
       border-style: solid;
       border-color: white;
-      border-width: 0.25em;
-      border-bottom-width: 0.75em;
+      border-width: 2em;
+      border-bottom-width: 4.50em;
    }
    th,td{
       font-weight: 100;
