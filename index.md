@@ -98,6 +98,11 @@
       vertical-align: middle;
    }
     @media print, screen and (max-width: 740px){
+       .poloroid{
+            border-width: 1em;
+            border-bottom-width: 5.5em;
+            border-top-width: 2em;
+      }
         .wrapper {
             border-radius: 0;
             box-shadow: none;
