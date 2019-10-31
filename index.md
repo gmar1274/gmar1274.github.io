@@ -1,7 +1,7 @@
 {:.mycenter}
 [<i class="fab fa-linkedin fa-border"></i> LinkedIn](https://www.linkedin.com/in/gabrielnm) | [<i class="fab fa-github-square  fa-border"></i> GitHub](https://www.github.com/gmar1274) | [<i class="fas fa-file-pdf fa-border"></i> Resume](/docs/resume.pdf)
 
-{:.myimage-center .wow .headShake}
+{:.myimage-center .wow .rollIn}
 ![Image of Gabriel](/images/gabriel.jpg)
 
 <style>
@@ -131,7 +131,7 @@
       font-family: Bookman;
    }
 </style>
-{: wow fadeInLeft}
+{: .wow fadeInLeft}
 ## About Me  <i class="fas fa-code"></i>
 ---
 {: .show-on-scroll}
@@ -143,7 +143,7 @@ As a former baseball player, I understand the value and importance of teamwork. 
 Outside of work, (and outside of coding for fun) I enjoy going out and listening to live music, exploring the city for new cuisines, discovering new breweries, and just recently got into fitness (running and hiking) to balance out the former. <i class="fas fa-quote-right fa-2x fa-pull-right"></i>
 
 
-{: wow fadeInRight}
+{: .wow .fadeInRight}
 ## Education  <i class="fas fa-user-graduate"></i>
 ---
 
@@ -153,10 +153,10 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 |---------|
 2011--2016 | **Minor** | **Physics**,<br/> *California State Polytechnic University, Pomona.*| **Relevant Coursework:** <br/> Biophysics, Computational Physics (python programming using NumPy and SciPy modules), Intro to Electromagnetic Radiation and Special Relativity, Intro to Quantum Physics, General Physics, Differential Equations, Multivariable Calculus |
 
-{: wow fadeInLeft}
+{: .wow .fadeInLeft}
 ## My Projects  <i class="fas fa-laptop-code"></i>
 ---
-{: #medicine-reminder wow fadeInLeft}
+{: #medicine-reminder .wow .fadeInRight}
 ### Android Mobile App - Medicine Reminder [![logo](https://github.com/gmar1274/MedicineReminder/blob/master/app/src/main/ic_launcher-web.png?raw=true){:height="50px" width="50px vertical-align:middle"} View <i class="fab fa-github"></i>](https://github.com/gmar1274/MedicineReminder)
 ~~~java
 - [x] Project goal was to create a really straightforward app to keep a history of all medications consumed.
@@ -167,7 +167,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [ ] Google Play Store link: *upcoming*
 - [ ] Next step is to implement a *reminding* function to alert the user when it's time to take the next dosage of medication.
 ~~~
-{: #tictactoe wow fadeInLeft}
+{: #tictactoe .wow .fadeInLeft}
 ### Android TicTacToe Mobile Development [View <i class="fab fa-github"></i>](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
 ```java
 - [x] Project goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile development.
@@ -181,7 +181,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [x] Third party API's consumed include Google's Firebase NoSQL and AdMob.
 ```
 
-{: #android-ios wow fadeInRight}
+{: #android-ios .wow .fadeInRight}
 ### Android & iOS Mobile Development  [View <i class="fab fa-github"></i>](https://github.com/gmar1274/Android-Firebase)
 ```swift
 - [x] Project goal was to recreate an app similar to Supercut's real-time reservation system.
@@ -194,7 +194,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 
 - [x] Technologies used: Android Studio and Xcode IDE, DreamFactory REST API Platform for creating custom web APIs, JSON for encoding/  decoding microservices, MySQL, Google's Firebase NoSQL, and Amazon Web Services (AWS) EC2 instance to host the MySQL database.
 ```
-{: #wpf wow fadeInLeft} 
+{: #wpf .wow .fadeInLeft} 
 ### C\# Windows Presentation Foundation (WPF) Development [View <i class="fab fa-github"></i>](https://github.com/gmar1274/FTNTransport)
 ```c#
 - [x] Project goal was to create a WPF administrative inventory management dashboard  application for the independent trucking industry.
@@ -207,7 +207,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 
 - [x] Technologies used: Microsoft Visual Studio IDE, XAML, MYSQL, PHP for custom web services, JSON for encoding/decoding PHP web services, and Amazon Web Services (AWS) EC2 instance for hosting the database and PHP web services.
 ```
-{: #python wow fadeInRight}
+{: #python .wow .fadeInRight}
 ### Python Modeling - Senior Class Project Computational Physics PHY 409 [View <i class="fab fa-github"></i>](https://github.com/gmar1274/ComputationalBiologyPhy409Project)
 ```python
 - [x] Project goal was to model biological growth using the Lindenmayer System.
@@ -225,7 +225,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [x] Technologies used: Eclipse IDE with the PyDev plugin for development.
 ```
 
-{: #raspberry-pi wow fadeInRight}
+{: #raspberry-pi .wow .fadeInRight}
 ### Raspberry Pi - OpenVPN Server <i class="fab fa-raspberry-pi"></i>
 ```bash
 - [x] Project goal was to host my own secure virtual private network (VPN) server		
@@ -240,7 +240,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 
 - [ ] Next step is to buy a mini USB travel router and install OpenWrt along with OpenVpn so that I can connect all my extra devices to my travel router without needing to generate individual certificates and keys for each client device.
 ```
-{: #misc wow rotateInDownLeft}
+{: #misc .wow .rotateInDownLeft}
 ## Miscellaneous <i class="fas fa-cogs fa-spin"></i>
 ---
 
