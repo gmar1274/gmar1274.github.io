@@ -1,3 +1,4 @@
+{: .wow slideInDown}
 {:.mycenter}
 [<i class="fab fa-linkedin fa-border"></i><br/> LinkedIn](https://www.linkedin.com/in/gabrielnm) | [<i class="fab fa-github-square  fa-border"></i><br/> GitHub](https://www.github.com/gmar1274) | [<i class="fas fa-file-pdf fa-border"></i><br/> Resume](/docs/resume.pdf)
 
@@ -9,8 +10,9 @@
       outline: 1px solid black;
       border-style: solid;
       border-color: white;
-      border-width: 1.5em;
-      border-bottom-width: 5em;
+      border-width: 2em;
+      border-bottom-width: 11em;
+      border-top-width: 4em;
    }
    th,td{
       font-weight: 100;
