@@ -1,7 +1,7 @@
 {:.mycenter}
 [<i class="fab fa-linkedin fa-border"></i> LinkedIn](https://www.linkedin.com/in/gabrielnm) | [<i class="fab fa-github-square  fa-border"></i> GitHub](https://www.github.com/gmar1274) | [<i class="fas fa-file-pdf fa-border"></i> Resume](/docs/resume.pdf)
 
-{:.myimage-center wow headShake}
+{:.myimage-center .wow .headShake}
 ![Image of Gabriel](/images/gabriel.jpg)
 
 <style>
