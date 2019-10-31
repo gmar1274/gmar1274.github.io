@@ -143,9 +143,11 @@
       font-family: Bookman;
    }
 </style>
+
 {: .wow fadeInLeft}
 ## About Me  <i class="fas fa-code"></i>
 ---
+
 {: .wow slideOutUp}
 <i class="fas fa-quote-left fa-2x fa-pull-left"></i>
 Welcome to my personal website! My name is Gabriel, and I am first in my family to graduate with a STEM degree. I am a professional JavaScript developer. I was born in Pomona, CA in 1993, taught myself how to code in high school, and been developing applications on all platforms ever since. When I am not coding, I am reading math textbooks (yes really ... :nerd_face: ) and researching new platforms and technologies. I am currently open to discovering new opportunities that would marry my two passions for coding and Information Technology.
@@ -158,7 +160,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 {: .wow .fadeInRight}
 ## Education  <i class="fas fa-user-graduate"></i>
 ---
-{: .wow .tada}
+
 2018--present | **M.S.** | **Applied Mathematics**, <br/> *California State Polytechnic University, Pomona.* | **Relevant Coursework:** <br/> Mathematical Modeling | 
 |---------|
 2011--2016 | **B.S** | **Computer Science**<br/> (ABET Accredited), *California State Polytechnic University, Pomona.* | **Relevant Coursework:** <br/> Artificial Intelligence, Computer Networks, Database Systems, Programming Graphical User Interfaces (GUI), Computer Organization and Assembly Programming, Data Structures & Algorithms, Design and Analysis of Algorithms, Numerical Methods, Graph Theory | 
@@ -169,7 +171,8 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 ## My Projects  <i class="fas fa-laptop-code"></i>
 ---
 
-### Android Mobile App - Medicine Reminder [![logo](https://github.com/gmar1274/MedicineReminder/blob/master/app/src/main/ic_launcher-web.png?raw=true){:height="50px" width="50px vertical-align:middle"} View <i class="fab fa-github"></i>](https://github.com/gmar1274/MedicineReminder){: #medicine-reminder .wow .fadeInRight}
+{: #medicine-reminder .wow .fadeInRight}
+### Android Mobile App - Medicine Reminder [![logo](https://github.com/gmar1274/MedicineReminder/blob/master/app/src/main/ic_launcher-web.png?raw=true){:height="50px" width="50px vertical-align:middle"} View <i class="fab fa-github"></i>](https://github.com/gmar1274/MedicineReminder)
 ~~~java
 - [x] Project goal was to create a really straightforward app to keep a history of all medications consumed.
 - [x] What I needed was a simple app to keep a record of the medications I was taking and when I last took it. (I had my tonsils removed Oct. 7th 2019)
@@ -180,7 +183,8 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [ ] Next step is to implement a *reminding* function to alert the user when it's time to take the next dosage of medication.
 ~~~
 
-### Android TicTacToe Mobile Development [View <i class="fab fa-github"></i>](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki){: #tictactoe .wow .fadeInLeft}
+{: #tictactoe .wow .fadeInLeft}
+### Android TicTacToe Mobile Development [View <i class="fab fa-github"></i>](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
 ```java
 - [x] Project goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile development.
 
@@ -193,7 +197,8 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [x] Third party API's consumed include Google's Firebase NoSQL and AdMob.
 ```
 
-### Android & iOS Mobile Development  [View <i class="fab fa-github"></i>](https://github.com/gmar1274/Android-Firebase){: #android-ios .wow .fadeInRight}
+{: #android-ios .wow .fadeInRight}
+### Android & iOS Mobile Development  [View <i class="fab fa-github"></i>](https://github.com/gmar1274/Android-Firebase)
 ```swift
 - [x] Project goal was to recreate an app similar to Supercut's real-time reservation system.
 
@@ -205,8 +210,8 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 
 - [x] Technologies used: Android Studio and Xcode IDE, DreamFactory REST API Platform for creating custom web APIs, JSON for encoding/  decoding microservices, MySQL, Google's Firebase NoSQL, and Amazon Web Services (AWS) EC2 instance to host the MySQL database.
 ```
-
-### C\# Windows Presentation Foundation (WPF) Development [View <i class="fab fa-github"></i>](https://github.com/gmar1274/FTNTransport){: #wpf .wow .fadeInLeft} 
+{: #wpf .wow .fadeInLeft} 
+### C\# Windows Presentation Foundation (WPF) Development [View <i class="fab fa-github"></i>](https://github.com/gmar1274/FTNTransport)
 ```c#
 - [x] Project goal was to create a WPF administrative inventory management dashboard  application for the independent trucking industry.
 
@@ -218,8 +223,8 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 
 - [x] Technologies used: Microsoft Visual Studio IDE, XAML, MYSQL, PHP for custom web services, JSON for encoding/decoding PHP web services, and Amazon Web Services (AWS) EC2 instance for hosting the database and PHP web services.
 ```
-
-### Python Modeling - Senior Class Project Computational Physics PHY 409 [View <i class="fab fa-github"></i>](https://github.com/gmar1274/ComputationalBiologyPhy409Project){: #python .wow .fadeInRight}
+{: #python .wow .fadeInRight}
+### Python Modeling - Senior Class Project Computational Physics PHY 409 [View <i class="fab fa-github"></i>](https://github.com/gmar1274/ComputationalBiologyPhy409Project)
 ```python
 - [x] Project goal was to model biological growth using the Lindenmayer System.
 
@@ -236,7 +241,8 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [x] Technologies used: Eclipse IDE with the PyDev plugin for development.
 ```
 
-### Raspberry Pi - OpenVPN Server <i class="fab fa-raspberry-pi"></i>{: #raspberry-pi .wow .fadeInRight}
+{: #raspberry-pi .wow .fadeInRight}
+### Raspberry Pi - OpenVPN Server <i class="fab fa-raspberry-pi"></i>
 ```bash
 - [x] Project goal was to host my own secure virtual private network (VPN) server		
 
@@ -251,9 +257,10 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [ ] Next step is to buy a mini USB travel router and install OpenWrt along with OpenVpn so that I can connect all my extra devices to my travel router without needing to generate individual certificates and keys for each client device.
 ```
 
-## Miscellaneous <i class="fas fa-cogs fa-spin"></i> {: #misc .wow .rotateInDownLeft}
+{: #misc .wow .rotateInDownLeft}
+## Miscellaneous <i class="fas fa-cogs fa-spin"></i>
 ---
-{: .wow .bounceIn}
+
 | **Hobbies** <i class="fas fa-gamepad"></i> |
 | live music <i class="fas fa-icons"></i> | running <i class="fas fa-running"></i> | hiking <i class="fas fa-hiking"></i> |
 | reading math books :nerd_face: | craft beer <i class="fas fa-beer"></i> | food festivals <i class="fas fa-utensils"></i> | Going to Dodger games :baseball: |
