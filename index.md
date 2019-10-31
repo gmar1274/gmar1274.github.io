@@ -1,10 +1,17 @@
 {:.mycenter}
-[<i class="fab fa-linkedin fa-border"></i> LinkedIn](https://www.linkedin.com/in/gabrielnm) | [<i class="fab fa-github-square  fa-border"></i> GitHub](https://www.github.com/gmar1274) | [<i class="fas fa-file-pdf fa-border"></i> Resume](/docs/resume.pdf)
+[<i class="fab fa-linkedin fa-border"></i><br/> LinkedIn](https://www.linkedin.com/in/gabrielnm) | [<i class="fab fa-github-square  fa-border"></i><br/> GitHub](https://www.github.com/gmar1274) | [<i class="fas fa-file-pdf fa-border"></i><br/> Resume](/docs/resume.pdf)
 
-{:.myimage-center .wow .rollIn}
+{:.myimage-center .poloroid .wow .rollIn}
 ![Image of Gabriel](/images/gabriel.jpg)
 
 <style>
+   .poloroid{
+      outline: 1px solid black;
+      border-style: solid;
+      border-color: white;
+      border-width: 0.25em;
+      border-bottom-width: 0.75em;
+   }
    th,td{
       font-weight: 100;
       vertical-align: top;
@@ -35,6 +42,7 @@
         border-bottom: 0px;
     }
     .mycenter td {
+        font-size: 0.5em;
         text-align: center;
         padding: 5px 10px;
         border-bottom: 1px solid #aaa;
@@ -47,6 +55,7 @@
         text-align:center;
         height: "25%";
         width: "25%";
+        outline: 1px solid black;
     }
     header{
         background-image: url('/images/mandel.jpg');
@@ -88,6 +97,9 @@
       vertical-align: middle;
    }
     @media print, screen and (max-width: 740px){
+      .mycenter td {
+           font-size: 1em;
+       }
         .wrapper {
             border-radius: 0;
             box-shadow: none;
