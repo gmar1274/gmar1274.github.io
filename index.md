@@ -42,7 +42,7 @@
         border-bottom: 0px;
     }
     .mycenter td {
-        font-size: 0.5em;
+        font-size: 1em;
         text-align: center;
         padding: 5px 10px;
         border-bottom: 1px solid #aaa;
@@ -148,7 +148,7 @@
 ## About Me  <i class="fas fa-code"></i>
 ---
 
-{: .wow slideOutUp}
+{: .wow fadeInRight}
 <i class="fas fa-quote-left fa-2x fa-pull-left"></i>
 Welcome to my personal website! My name is Gabriel, and I am first in my family to graduate with a STEM degree. I am a professional JavaScript developer. I was born in Pomona, CA in 1993, taught myself how to code in high school, and been developing applications on all platforms ever since. When I am not coding, I am reading math textbooks (yes really ... :nerd_face: ) and researching new platforms and technologies. I am currently open to discovering new opportunities that would marry my two passions for coding and Information Technology.
 
@@ -210,6 +210,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 
 - [x] Technologies used: Android Studio and Xcode IDE, DreamFactory REST API Platform for creating custom web APIs, JSON for encoding/  decoding microservices, MySQL, Google's Firebase NoSQL, and Amazon Web Services (AWS) EC2 instance to host the MySQL database.
 ```
+
 {: #wpf .wow .fadeInLeft} 
 ### C\# Windows Presentation Foundation (WPF) Development [View <i class="fab fa-github"></i>](https://github.com/gmar1274/FTNTransport)
 ```c#
@@ -223,6 +224,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 
 - [x] Technologies used: Microsoft Visual Studio IDE, XAML, MYSQL, PHP for custom web services, JSON for encoding/decoding PHP web services, and Amazon Web Services (AWS) EC2 instance for hosting the database and PHP web services.
 ```
+
 {: #python .wow .fadeInRight}
 ### Python Modeling - Senior Class Project Computational Physics PHY 409 [View <i class="fab fa-github"></i>](https://github.com/gmar1274/ComputationalBiologyPhy409Project)
 ```python
