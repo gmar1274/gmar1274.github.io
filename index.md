@@ -6,7 +6,11 @@
 <td class="wow slideInRight" ><a href="/docs/resume.pdf"><i class="fas fa-file-pdf fa-border"></i><br/>Resume</a></td>
 </tr>
 </table>
-![Image of Gabriel](/images/gabriel.png){: .myimage-center .wow .rollIn}
+
+{: .myimage-center .wow .rollIn}
+![Image of Gabriel](/images/gabriel.png)
+
+
 <style>
    .fab, .fa,.fas{
       color: #069;
@@ -299,7 +303,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 ---
 
 <table class="wow heartBeat">
-<tr><td><strong>Hobbies</strong> <i class="fas fa-gamepad"></i></td></tr>
+<tr><td><strong>Hobbies</strong> <i class="fas fa-gamepad"></i></td><td></td><td></td></tr>
 <tr>
 <td>live music <i class="fas fa-icons"></i></td>
 <td>running <i class="fas fa-running"></i></td>
@@ -311,9 +315,9 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 <td>food festivals <i class="fas fa-utensils"></i></td>
 </tr>
 <tr>
-<td>Going to Dodger games :baseball:</td>
+<td>Going to Dodger games :baseball:</td><td></td><td></td>
 </tr>
-<tr><td><strong>TV shows</strong> <i class="fas fa-tv"></i></td></tr>
+<tr><td><strong>TV shows</strong> <i class="fas fa-tv"></i></td><td></td><td></td></tr>
 <tr>
 <td>MasterChef</td>
 <td>Ink Master</td>
@@ -325,6 +329,6 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 <td>Rick and Morty</td>
 </tr>
 <tr>
-<td>Turn</td>
+<td>Turn</td><td></td><td></td>
 </tr>
 </table>
