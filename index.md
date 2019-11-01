@@ -1,9 +1,9 @@
 {::options parse_block_html="true" /}
-<table class="mycenter wow slideInDown">
+<table class="mycenter">
 <tr>
-<td><a href="https://www.linkedin.com/in/gabrielnm"><i class="fab fa-linkedin fa-border"></i><br/>LinkedIn</a></td>
-<td><a href="https://www.github.com/gmar1274"><i class="fab fa-github-square  fa-border"></i><br/>GitHub</a></td>
-<td><a href="/docs/resume.pdf"><i class="fas fa-file-pdf fa-border"></i><br/>Resume</a></td>
+<td class="wow slideInDown" ><a href="https://www.linkedin.com/in/gabrielnm"><i class="fab fa-linkedin fa-border"></i><br/>LinkedIn</a></td>
+<td class="wow slideInDown" ><a href="https://www.github.com/gmar1274"><i class="fab fa-github-square  fa-border"></i><br/>GitHub</a></td>
+<td class="wow slideInDown" ><a href="/docs/resume.pdf"><i class="fas fa-file-pdf fa-border"></i><br/>Resume</a></td>
 </tr>
 </table>
 {:.myimage-center}
@@ -169,24 +169,59 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 ## Education  <i class="fas fa-user-graduate"></i>
 ---
 
-<table class="mycenter wow tada">
+<table class="wow tada">
 <tr>
 <td>2018&mdash;present</td>
 <td><strong>M.S.</strong></td>
 <td><strong>Applied Mathematics</strong>, <br/> <i>California State Polytechnic University, Pomona</i></td>
-<td><strong>Relevant Coursework:</strong><br/> Mathematical Modeling</td>
+<td><strong>Relevant Coursework:</strong><br/> 
+<ul><li>Mathematical Modeling</li></ul></td>
 </tr>
 <tr>
 <td>2011&mdash;2016</td>
 <td><strong>B.S</strong></td>
 <td><strong>Computer Science</strong><br/> (ABET Accredited), <i>California State Polytechnic University, Pomona</i></td>
-<td><strong>Relevant Coursework:</strong><br/> Artificial Intelligence, Computer Networks, Database Systems, Programming Graphical User Interfaces (GUI), Computer Organization and Assembly Programming, Data Structures & Algorithms, Design and Analysis of Algorithms, Numerical Methods, Graph Theory</td>
+<td><strong>Relevant Coursework:</strong><br/> 
+<ul>
+<li>Artificial Intelligence</li>
+
+<li>Computer Networks</li>
+
+<li>Database Systems</li>
+
+<li>Programming Graphical User Interfaces (GUI)</li>
+
+<li>Computer Organization and Assembly Programming</li>
+
+<li>Data Structures & Algorithms</li>
+
+<li>Design and Analysis of Algorithms</li>
+<li>Numerical Methods</li>
+<li>Graph Theory</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>2011&mdash;2016</td>
 <td><strong>Minor</strong></td>
 <td><strong>Physics</strong>,<br/> <i>California State Polytechnic University, Pomona</i></td>
-<td><strong>Relevant Coursework:</strong><br/> Biophysics, Computational Physics (python programming using NumPy and SciPy modules), Intro to Electromagnetic Radiation and Special Relativity, Intro to Quantum Physics, General Physics, Differential Equations, Multivariable Calculus</td>
+<td><strong>Relevant Coursework:</strong><br/> 
+<ul>
+<li>Biophysics</li>
+
+<li>Computational Physics (Python programming using NumPy and SciPy modules)</li>
+
+<li>Intro to Electromagnetic Radiation and Special Relativity</li>
+
+<li>Intro to Quantum Physics</li>
+
+<li>General Physics</li>
+
+<li>Differential Equations</li>
+
+<li>Multivariable Calculus</li>
+</ul>
+</td>
 </tr>
 </table>
 
@@ -263,23 +298,23 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 ## Miscellaneous <i class="fas fa-cogs fa-spin"></i>
 ---
 
-<table class="mycenter wow heartBeat">
+<table class="wow heartBeat">
 <tr><td><strong>Hobbies</strong> <i class="fas fa-gamepad"></i></td></tr>
 <tr>
-<td>live music <i class="fas fa-icons"></i>
-<td>running <i class="fas fa-running"></i>
-<td>hiking <i class="fas fa-hiking"></i>
-<td>reading math books :nerd_face:
-<td>craft beer <i class="fas fa-beer"></i>
-<td>food festivals <i class="fas fa-utensils"></i>
-<td>Going to Dodger games :baseball:
+<td>live music <i class="fas fa-icons"></i></td>
+<td>running <i class="fas fa-running"></i></td>
+<td>hiking <i class="fas fa-hiking"></i></td>
+<td>reading math books :nerd_face:</td>
+<td>craft beer <i class="fas fa-beer"></i></td>
+<td>food festivals <i class="fas fa-utensils"></i></td>
+<td>Going to Dodger games :baseball:</td>
 </tr>
 <tr>
 <td><strong>TV shows</strong> <i class="fas fa-tv"></i></td>
-<td>MasterChef<td>
+<td>MasterChef</td>
 <td>Ink Master</td>
 <td>Shark Tank</td>
-<td>It's Always Sunny in Philadelphia<td>
+<td>It's Always Sunny in Philadelphia</td>
 <td>Workaholics</td>
 <td>Rick and Morty</td>
 <td>Turn</td>
