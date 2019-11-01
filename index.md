@@ -169,7 +169,7 @@ As a former baseball player, I understand the value and importance of teamwork. 
 Outside of work, (and outside of coding for fun) I enjoy going out and listening to live music, exploring the city for new cuisines, discovering new breweries, and just recently got into fitness (running and hiking) to balance out the former. <i class="fas fa-quote-right fa-2x fa-pull-right"></i>
 </div>
 
-{:.wow .tada}
+{:.wow .fadeInRight}
 ## Education  <i class="fas fa-user-graduate wow fadeIn"></i>
 ---
 
@@ -311,7 +311,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 </div>
    
 {: #misc .wow .rotateInDownLeft}
-## Miscellaneous <i class="fas fa-cogs fa-spin wow fadeIn"></i>
+## Miscellaneous <i class="fas fa-cogs fa-spin"></i>
 ---
 
 <table class="wow heartBeat">
