@@ -1,14 +1,17 @@
 {::options parse_block_html="true" /}
 <table class="mycenter table">
 <tr>
-<td class="wow slideInDown" ><a href="https://www.linkedin.com/in/gabrielnm"><i class="fab fa-linkedin fa-border"></i><br/>LinkedIn</a></td>
+<td class="wow slideInLeft" ><a href="https://www.linkedin.com/in/gabrielnm"><i class="fab fa-linkedin fa-border"></i><br/>LinkedIn</a></td>
 <td class="wow slideInDown" ><a href="https://www.github.com/gmar1274"><i class="fab fa-github-square  fa-border"></i><br/>GitHub</a></td>
-<td class="wow slideInDown" ><a href="/docs/resume.pdf"><i class="fas fa-file-pdf fa-border"></i><br/>Resume</a></td>
+<td class="wow slideInRight" ><a href="/docs/resume.pdf"><i class="fas fa-file-pdf fa-border"></i><br/>Resume</a></td>
 </tr>
 </table>
 {:.myimage-center}
 ![Image of Gabriel](/images/gabriel.png){: .wow .rollIn}
 <style>
+   .fab, .fa{
+      color: #069;
+   }
    .poloroid{
       outline: 1px solid black;
       border-style: solid;
@@ -121,8 +124,6 @@
          }
         table{
             width:100%;
-            margin: .25em;
-            padding:0px;
         }
       th,td{
          padding:.25em;   
@@ -298,7 +299,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 ## Miscellaneous <i class="fas fa-cogs fa-spin"></i>
 ---
 
-<table class="table wow heartBeat">
+<table class="wow heartBeat">
 <tr><td><strong>Hobbies</strong> <i class="fas fa-gamepad"></i></td></tr>
 <tr>
 <td>live music <i class="fas fa-icons"></i></td>
