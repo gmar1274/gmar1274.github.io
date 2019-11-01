@@ -128,10 +128,7 @@
          }
         table{
             width:100%;
-        }
-      th,td{
-         padding:.25em;   
-      }
+       }
       .myimage-center{
            height: 100%;
            width: 100%;
