@@ -1,5 +1,5 @@
 {::options parse_block_html="true" /}
-<table class="mycenter">
+<table class="mycenter table">
 <tr>
 <td class="wow slideInDown" ><a href="https://www.linkedin.com/in/gabrielnm"><i class="fab fa-linkedin fa-border"></i><br/>LinkedIn</a></td>
 <td class="wow slideInDown" ><a href="https://www.github.com/gmar1274"><i class="fab fa-github-square  fa-border"></i><br/>GitHub</a></td>
@@ -169,7 +169,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 ## Education  <i class="fas fa-user-graduate"></i>
 ---
 
-<table class="wow tada">
+<table class="table wow tada">
 <tr>
 <td>2018&mdash;present</td>
 <td><strong>M.S.</strong></td>
@@ -298,7 +298,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 ## Miscellaneous <i class="fas fa-cogs fa-spin"></i>
 ---
 
-<table class="wow heartBeat">
+<table class="table wow heartBeat">
 <tr><td><strong>Hobbies</strong> <i class="fas fa-gamepad"></i></td></tr>
 <tr>
 <td>live music <i class="fas fa-icons"></i></td>
@@ -313,7 +313,7 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 <tr>
 <td>Going to Dodger games :baseball:</td>
 </tr>
-<tr><td><strong>TV shows</strong> <i class="fas fa-tv"></i></td><tr>
+<tr><td><strong>TV shows</strong> <i class="fas fa-tv"></i></td></tr>
 <tr>
 <td>MasterChef</td>
 <td>Ink Master</td>
