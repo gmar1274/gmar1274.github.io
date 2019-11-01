@@ -132,8 +132,8 @@
          padding:.25em;   
       }
       .myimage-center{
-           height: "60%";
-           width: "60%";
+           height: 100%;
+           width: 100%;
        }
       .mycenter {
            font-size: 1.5em;
@@ -169,11 +169,11 @@ As a former baseball player, I understand the value and importance of teamwork. 
 Outside of work, (and outside of coding for fun) I enjoy going out and listening to live music, exploring the city for new cuisines, discovering new breweries, and just recently got into fitness (running and hiking) to balance out the former. <i class="fas fa-quote-right fa-2x fa-pull-right"></i>
 </div>
 
-{:.wow .fadeInRight}
-## Education  <i class="fas fa-user-graduate"></i>
+{:.wow .tada}
+## Education  <i class="fas fa-user-graduate wow fadeIn"></i>
 ---
 
-<table class="table wow tada">
+<table class="wow tada">
 <tr>
 <td>2018&mdash;present</td>
 <td><strong>M.S.</strong></td>
@@ -230,11 +230,12 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 </table>
 
 {: .wow .fadeInLeft}
-## My Projects  <i class="fas fa-laptop-code"></i>
+## My Projects  <i class="fas fa-laptop-code wow fadeIn"></i>
 ---
 
 {: #medicine-reminder .wow .fadeInRight}
-### Android Mobile App - Medicine Reminder [![logo](https://github.com/gmar1274/MedicineReminder/blob/master/app/src/main/ic_launcher-web.png?raw=true){:height="50px" width="50px vertical-align:middle"} View <i class="fab fa-github"></i>](https://github.com/gmar1274/MedicineReminder)
+### Android Mobile App - Medicine Reminder [![logo](https://github.com/gmar1274/MedicineReminder/blob/master/app/src/main/ic_launcher-web.png?raw=true){:height="50px" width="50px vertical-align:middle"} View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/MedicineReminder)
+<div class="wow fadeIn">
 ~~~java
 - [x] Project goal was to create a really straightforward app to keep a history of all medications consumed.
 - [x] What I needed was a simple app to keep a record of the medications I was taking and when I last took it. (I had my tonsils removed Oct. 7th 2019)
@@ -244,9 +245,11 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [ ] Google Play Store link: *upcoming*
 - [ ] Next step is to implement a *reminding* function to alert the user when it's time to take the next dosage of medication.
 ~~~
+</div>
 
 {: #tictactoe .wow .fadeInLeft}
-### Android TicTacToe Mobile Development [View <i class="fab fa-github"></i>](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
+### Android TicTacToe Mobile Development [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
+<div class="wow fadeIn">
 ```java
 - [x] Project goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile development.
 - [x] Implemented native animation libraries and media player.
@@ -254,9 +257,11 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [x] Implemented one of the first Artificial Intelligence search algorithms called MinMax with alpha-beta pruning to reduce the runtime search efficiency.
 - [x] Third party API's consumed include Google's Firebase NoSQL and AdMob.
 ```
+</div>
 
 {: #android-ios .wow .fadeInRight}
-### Android & iOS Mobile Development  [View <i class="fab fa-github"></i>](https://github.com/gmar1274/Android-Firebase)
+### Android & iOS Mobile Development  [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/Android-Firebase)
+<div class="wow fadeIn">
 ```swift
 - [x] Project goal was to recreate an app similar to Supercut's real-time reservation system.
 - [x] Project to demonstrate proficiency with the Android and iOS SDK native mobile development,life cycle, and Model View Controller architecture (MVC).
@@ -264,19 +269,23 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [x] Android developed using Java and iOS app developed using swift.
 - [x] Technologies used: Android Studio and Xcode IDE, DreamFactory REST API Platform for creating custom web APIs, JSON for encoding/  decoding microservices, MySQL, Google's Firebase NoSQL, and Amazon Web Services (AWS) EC2 instance to host the MySQL database.
 ```
+</div>
 
 {: #wpf .wow .fadeInLeft} 
-### C\# Windows Presentation Foundation (WPF) Development [View <i class="fab fa-github"></i>](https://github.com/gmar1274/FTNTransport)
+### C\# Windows Presentation Foundation (WPF) Development [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/FTNTransport)
+<div class="wow fadeIn">
 ```c#
 - [x] Project goal was to create a WPF administrative inventory management dashboard  application for the independent trucking industry.
 - [x] Portfolio project to demonstrate knowledge using the .NET framework and Model View ViewModel Architecture (MVVM).
 - [x] Developed an administrative inventory management dashboard system GUI.
 - [x] App written in C#.
 - [x] Technologies used: Microsoft Visual Studio IDE, XAML, MYSQL, PHP for custom web services, JSON for encoding/decoding PHP web services, and Amazon Web Services (AWS) EC2 instance for hosting the database and PHP web services.
-```
+```     
+</div>
 
 {: #python .wow .fadeInRight}
-### Python Modeling - Senior Class Project Computational Physics PHY 409 [View <i class="fab fa-github"></i>](https://github.com/gmar1274/ComputationalBiologyPhy409Project)
+### Python Modeling - Senior Class Project Computational Physics PHY 409 [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/ComputationalBiologyPhy409Project)
+<div class="wow fadeIn">
 ```python
 - [x] Project goal was to model biological growth using the Lindenmayer System.
 - [x] Went above and beyond class requirements. Goal was to recreate research publication that models botanical life using the Lindenmayer System.
@@ -286,9 +295,11 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [x] Used SciPy and NumPy modules for computing and plotting results of the research publication.
 - [x] Technologies used: Eclipse IDE with the PyDev plugin for development.
 ```
+</div>
 
 {: #raspberry-pi .wow .fadeInRight}
-### Raspberry Pi - OpenVPN Server <i class="fab fa-raspberry-pi"></i>
+### Raspberry Pi - OpenVPN Server <i class="fab fa-raspberry-pi wow fadeIn"></i>
+<div class="wow fadeIn">
 ```bash
 - [x] Project goal was to host my own secure virtual private network (VPN) server		
 - [x] Successfully created and currently maintaining a Virtual Private Network (VPN) for secured and safe web browsing on my Raspberry Pi.		
@@ -297,9 +308,10 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 - [x] Configured my TP-Link's firmware and installed OpenWrt on the device. 
 - [ ] Next step is to buy a mini USB travel router and install OpenWrt along with OpenVpn so that I can connect all my extra devices to my travel router without needing to generate individual certificates and keys for each client device.
 ```
-
+</div>
+   
 {: #misc .wow .rotateInDownLeft}
-## Miscellaneous <i class="fas fa-cogs fa-spin"></i>
+## Miscellaneous <i class="fas fa-cogs fa-spin wow fadeIn"></i>
 ---
 
 <table class="wow heartBeat">
