@@ -1,9 +1,10 @@
 {: .wow slideInDown}
+
 {:.mycenter}
 [<i class="fab fa-linkedin fa-border"></i><br/> LinkedIn](https://www.linkedin.com/in/gabrielnm) | [<i class="fab fa-github-square  fa-border"></i><br/> GitHub](https://www.github.com/gmar1274) | [<i class="fas fa-file-pdf fa-border"></i><br/> Resume](/docs/resume.pdf)
 
 {:.myimage-center}
-![Image of Gabriel](/images/gabriel.jpg){: .poloroid .wow .rollIn}
+![Image of Gabriel](/images/gabriel.png){: .wow .rollIn}
 
 <style>
    .poloroid{
