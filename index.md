@@ -1,7 +1,8 @@
 
 {::options parse_block_html="true" /}
-<div class="mycenter wow slideInDown">
-[<i class="fab fa-linkedin fa-border"></i><br/> LinkedIn](https://www.linkedin.com/in/gabrielnm) | [<i class="fab fa-github-square  fa-border"></i><br/> GitHub](https://www.github.com/gmar1274) | [<i class="fas fa-file-pdf fa-border"></i><br/> Resume](/docs/resume.pdf)
+<div class="wow slideInDown">
+{: .mycenter}
+<i class="fab fa-linkedin fa-border"></i><br/> LinkedIn](https://www.linkedin.com/in/gabrielnm) | [<i class="fab fa-github-square  fa-border"></i><br/> GitHub](https://www.github.com/gmar1274) | [<i class="fas fa-file-pdf fa-border"></i><br/> Resume](/docs/resume.pdf)
 </div>
 {:.myimage-center}
 ![Image of Gabriel](/images/gabriel.png){: .wow .rollIn}
@@ -155,9 +156,11 @@
 <i class="fas fa-quote-left fa-2x fa-pull-left"></i>
 
 Welcome! My name is Gabriel, and I am first in my family to graduate with a STEM degree. I am a professional JavaScript developer. I was born in Pomona, CA in 1993, taught myself how to code in high school, and been developing applications on all platforms ever since. When I am not coding, I am reading math textbooks (yes really ... :nerd_face: ) and researching new platforms and technologies. I am currently open to discovering new opportunities that would marry my two passions for coding and Information Technology.
-
+</div>
+<div class="wow rotateIn">
 As a former baseball player, I understand the value and importance of teamwork. That is why I value a healthy team environment as my number one criterion above all else. 
-
+</div>
+<div class="wow rotateIn">
 Outside of work, (and outside of coding for fun) I enjoy going out and listening to live music, exploring the city for new cuisines, discovering new breweries, and just recently got into fitness (running and hiking) to balance out the former. <i class="fas fa-quote-right fa-2x fa-pull-right"></i>
 </div>
 
@@ -165,15 +168,26 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 ## Education  <i class="fas fa-user-graduate"></i>
 ---
 
-{::options parse_block_html="true" /}
-<div class="wow tada">
-
-2018--present | **M.S.** | **Applied Mathematics**, <br/> *California State Polytechnic University, Pomona.* | **Relevant Coursework:** <br/> Mathematical Modeling | 
-|---------|
-2011--2016 | **B.S** | **Computer Science**<br/> (ABET Accredited), *California State Polytechnic University, Pomona.* | **Relevant Coursework:** <br/> Artificial Intelligence, Computer Networks, Database Systems, Programming Graphical User Interfaces (GUI), Computer Organization and Assembly Programming, Data Structures & Algorithms, Design and Analysis of Algorithms, Numerical Methods, Graph Theory | 
-|---------|
-2011--2016 | **Minor** | **Physics**,<br/> *California State Polytechnic University, Pomona.*| **Relevant Coursework:** <br/> Biophysics, Computational Physics (python programming using NumPy and SciPy modules), Intro to Electromagnetic Radiation and Special Relativity, Intro to Quantum Physics, General Physics, Differential Equations, Multivariable Calculus |
-</div>
+<table class="wow tada">
+<tr>
+<td>2018--present</td>
+<td>**M.S.**</td>
+<td>**Applied Mathematics**, <br/> *California State Polytechnic University, Pomona.*</td>
+<td>**Relevant Coursework:** <br/> Mathematical Modeling</td>
+</tr>
+<tr>
+<td>2011--2016</td>
+<td>**B.S**</td>
+<td>**Computer Science**<br/> (ABET Accredited), *California State Polytechnic University, Pomona.*</td>
+<td>**Relevant Coursework:** <br/> Artificial Intelligence, Computer Networks, Database Systems, Programming Graphical User Interfaces (GUI), Computer Organization and Assembly Programming, Data Structures & Algorithms, Design and Analysis of Algorithms, Numerical Methods, Graph Theory</td>
+</tr>
+<tr>
+<td>2011--2016</td>
+<td>**Minor**</td>
+<td>**Physics**,<br/> *California State Polytechnic University, Pomona.*</td>
+<td>**Relevant Coursework:** <br/> Biophysics, Computational Physics (python programming using NumPy and SciPy modules), Intro to Electromagnetic Radiation and Special Relativity, Intro to Quantum Physics, General Physics, Differential Equations, Multivariable Calculus</td>
+</tr>
+</table>
 
 {: .wow .fadeInLeft}
 ## My Projects  <i class="fas fa-laptop-code"></i>
