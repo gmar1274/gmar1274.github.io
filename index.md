@@ -6,8 +6,7 @@
 <td class="wow slideInRight" ><a href="/docs/resume.pdf"><i class="fas fa-file-pdf fa-border"></i><br/>Resume</a></td>
 </tr>
 </table>
-{:.myimage-center}
-![Image of Gabriel](/images/gabriel.png){: .wow .rollIn}
+![Image of Gabriel](/images/gabriel.png){: .myimage-center .wow .rollIn}
 <style>
    .fab, .fa,.fas{
       color: #069;
