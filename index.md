@@ -304,19 +304,27 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 <td>live music <i class="fas fa-icons"></i></td>
 <td>running <i class="fas fa-running"></i></td>
 <td>hiking <i class="fas fa-hiking"></i></td>
+</tr>
+<tr>
 <td>reading math books :nerd_face:</td>
 <td>craft beer <i class="fas fa-beer"></i></td>
 <td>food festivals <i class="fas fa-utensils"></i></td>
-<td>Going to Dodger games :baseball:</td>
 </tr>
 <tr>
-<td><strong>TV shows</strong> <i class="fas fa-tv"></i></td>
+<td>Going to Dodger games :baseball:</td>
+</tr>
+<tr><td><strong>TV shows</strong> <i class="fas fa-tv"></i></td><tr>
+<tr>
 <td>MasterChef</td>
 <td>Ink Master</td>
 <td>Shark Tank</td>
+</tr>
+<tr>
 <td>It's Always Sunny in Philadelphia</td>
 <td>Workaholics</td>
 <td>Rick and Morty</td>
+</tr>
+<tr>
 <td>Turn</td>
 </tr>
 </table>
