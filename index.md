@@ -1,3 +1,9 @@
+
+
+
+
+
+{::options parse_block_html="true" /}
 <div class="mycenter wow slideInDown">
 [<i class="fab fa-linkedin fa-border"></i><br/> LinkedIn](https://www.linkedin.com/in/gabrielnm) | [<i class="fab fa-github-square  fa-border"></i><br/> GitHub](https://www.github.com/gmar1274) | [<i class="fas fa-file-pdf fa-border"></i><br/> Resume](/docs/resume.pdf)
 </div>
@@ -123,8 +129,8 @@
          padding:.25em;   
       }
       .myimage-center{
-           height: "50%";
-           width: "50%";
+           height: "60%";
+           width: "60%";
        }
       .mycenter {
            font-size: 1.5em;
@@ -149,7 +155,7 @@
 ## About Me <i class="fas fa-code"></i>
 ---
 </div>
-<div class="wow rollInRight">
+<div class="wow rotateIn">
 <i class="fas fa-quote-left fa-2x fa-pull-left"></i>
 
 Welcome! My name is Gabriel, and I am first in my family to graduate with a STEM degree. I am a professional JavaScript developer. I was born in Pomona, CA in 1993, taught myself how to code in high school, and been developing applications on all platforms ever since. When I am not coding, I am reading math textbooks (yes really ... :nerd_face: ) and researching new platforms and technologies. I am currently open to discovering new opportunities that would marry my two passions for coding and Information Technology.
