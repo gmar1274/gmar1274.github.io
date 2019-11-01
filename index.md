@@ -1,9 +1,11 @@
-
 {::options parse_block_html="true" /}
-<div class="wow slideInDown">
-{: .mycenter}
-<i class="fab fa-linkedin fa-border"></i><br/> LinkedIn](https://www.linkedin.com/in/gabrielnm) | [<i class="fab fa-github-square  fa-border"></i><br/> GitHub](https://www.github.com/gmar1274) | [<i class="fas fa-file-pdf fa-border"></i><br/> Resume](/docs/resume.pdf)
-</div>
+<table class="mycenter wow slideInDown">
+<tr>
+<td><i class="fab fa-linkedin fa-border"></i><br/> LinkedIn](https://www.linkedin.com/in/gabrielnm)</td>
+<td>[<i class="fab fa-github-square  fa-border"></i><br/> GitHub](https://www.github.com/gmar1274)</td>
+<td>[<i class="fas fa-file-pdf fa-border"></i><br/> Resume](/docs/resume.pdf)</td>
+</tr>
+</table>
 {:.myimage-center}
 ![Image of Gabriel](/images/gabriel.png){: .wow .rollIn}
 <style>
@@ -154,7 +156,6 @@
 </div>
 <div class="wow rotateIn">
 <i class="fas fa-quote-left fa-2x fa-pull-left"></i>
-
 Welcome! My name is Gabriel, and I am first in my family to graduate with a STEM degree. I am a professional JavaScript developer. I was born in Pomona, CA in 1993, taught myself how to code in high school, and been developing applications on all platforms ever since. When I am not coding, I am reading math textbooks (yes really ... :nerd_face: ) and researching new platforms and technologies. I am currently open to discovering new opportunities that would marry my two passions for coding and Information Technology.
 </div>
 <div class="wow rotateIn">
@@ -168,24 +169,24 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 ## Education  <i class="fas fa-user-graduate"></i>
 ---
 
-<table class="wow tada">
+<table class="mycenter wow tada">
 <tr>
-<td>2018--present</td>
-<td>**M.S.**</td>
-<td>**Applied Mathematics**, <br/> *California State Polytechnic University, Pomona.*</td>
-<td>**Relevant Coursework:** <br/> Mathematical Modeling</td>
+<td>2018&mdash;present</td>
+<td><strong>M.S.</td>
+<td><strong>Applied Mathematics, <br/> <i>California State Polytechnic University, Pomona</i></td>
+<td><strong>Relevant Coursework:<br/> Mathematical Modeling</td>
 </tr>
 <tr>
-<td>2011--2016</td>
-<td>**B.S**</td>
-<td>**Computer Science**<br/> (ABET Accredited), *California State Polytechnic University, Pomona.*</td>
-<td>**Relevant Coursework:** <br/> Artificial Intelligence, Computer Networks, Database Systems, Programming Graphical User Interfaces (GUI), Computer Organization and Assembly Programming, Data Structures & Algorithms, Design and Analysis of Algorithms, Numerical Methods, Graph Theory</td>
+<td>2011&mdash;2016</td>
+<td><strong>B.S</td>
+<td><strong>Computer Science<br/> (ABET Accredited), <i>California State Polytechnic University, Pomona</i></td>
+<td><strong>Relevant Coursework:<br/> Artificial Intelligence, Computer Networks, Database Systems, Programming Graphical User Interfaces (GUI), Computer Organization and Assembly Programming, Data Structures & Algorithms, Design and Analysis of Algorithms, Numerical Methods, Graph Theory</td>
 </tr>
 <tr>
-<td>2011--2016</td>
-<td>**Minor**</td>
-<td>**Physics**,<br/> *California State Polytechnic University, Pomona.*</td>
-<td>**Relevant Coursework:** <br/> Biophysics, Computational Physics (python programming using NumPy and SciPy modules), Intro to Electromagnetic Radiation and Special Relativity, Intro to Quantum Physics, General Physics, Differential Equations, Multivariable Calculus</td>
+<td>2011&mdash;2016</td>
+<td><strong>Minor</td>
+<td><strong>Physics,<br/> <i>California State Polytechnic University, Pomona</i></td>
+<td><strong>Relevant Coursework:<br/> Biophysics, Computational Physics (python programming using NumPy and SciPy modules), Intro to Electromagnetic Radiation and Special Relativity, Intro to Quantum Physics, General Physics, Differential Equations, Multivariable Calculus</td>
 </tr>
 </table>
 
@@ -262,11 +263,25 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 ## Miscellaneous <i class="fas fa-cogs fa-spin"></i>
 ---
 
-<div class="wow heartBeat">
-| **Hobbies** <i class="fas fa-gamepad"></i> |
-| live music <i class="fas fa-icons"></i> | running <i class="fas fa-running"></i> | hiking <i class="fas fa-hiking"></i> |
-| reading math books :nerd_face: | craft beer <i class="fas fa-beer"></i> | food festivals <i class="fas fa-utensils"></i> | Going to Dodger games :baseball: |
-| **TV shows** <i class="fas fa-tv"></i> |
-| MasterChef | Ink Master | Shark Tank | 
-| It's Always Sunny in Philadelphia | Workaholics | Rick and Morty |
-</div>
+<table class="mycenter wow heartBeat">
+<tr><td><strong>Hobbies</strong> <i class="fas fa-gamepad"></i></td></tr>
+<tr>
+<td>live music <i class="fas fa-icons"></i>
+<td>running <i class="fas fa-running"></i>
+<td>hiking <i class="fas fa-hiking"></i>
+<td>reading math books :nerd_face:
+<td>craft beer <i class="fas fa-beer"></i>
+<td>food festivals <i class="fas fa-utensils"></i>
+<td>Going to Dodger games :baseball:
+</tr>
+<tr>
+<td><strong>TV shows</strong> <i class="fas fa-tv"></i>
+<td>MasterChef
+<td>Ink Master
+<td>Shark Tank
+<td>It's Always Sunny in Philadelphia
+<td>Workaholics
+<td>Rick and Morty
+<td>Turn
+</tr>
+</table>
