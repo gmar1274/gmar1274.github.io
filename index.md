@@ -9,7 +9,7 @@
 {:.myimage-center}
 ![Image of Gabriel](/images/gabriel.png){: .wow .rollIn}
 <style>
-   .fab, .fa{
+   .fab, .fa,.fas{
       color: #069;
    }
    .poloroid{
