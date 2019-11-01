@@ -1,11 +1,8 @@
-{: .wow slideInDown}
-
 {:.mycenter}
-[<i class="fab fa-linkedin fa-border"></i><br/> LinkedIn](https://www.linkedin.com/in/gabrielnm) | [<i class="fab fa-github-square  fa-border"></i><br/> GitHub](https://www.github.com/gmar1274) | [<i class="fas fa-file-pdf fa-border"></i><br/> Resume](/docs/resume.pdf)
+[<i class="fab fa-linkedin fa-border"></i><br/> LinkedIn](https://www.linkedin.com/in/gabrielnm){: .wow slideInLeft} | [<i class="fab fa-github-square  fa-border"></i><br/> GitHub](https://www.github.com/gmar1274) {: .wow slideInUp} | [<i class="fas fa-file-pdf fa-border"></i><br/> Resume](/docs/resume.pdf) {: .wow slideInRight}
 
 {:.myimage-center}
 ![Image of Gabriel](/images/gabriel.png){: .wow .rollIn}
-
 <style>
    .poloroid{
       outline: 1px solid black;
@@ -148,8 +145,8 @@
    }
 </style>
 
+## About Me <i class="fas fa-code"></i>{: .wow fadeInLeft}
 {: .wow fadeInLeft}
-## About Me  <i class="fas fa-code"></i>
 ---
 
 {: .wow fadeInRight}
