@@ -26,6 +26,7 @@
    th,td{
       font-weight: 100;
       vertical-align: top;
+      padding: 0px;
    }
    body{
       background-color: white;
