@@ -1,7 +1,7 @@
 {::options parse_block_html="true" /}
 <table class="mycenter wow slideInDown">
 <tr>
-<td><i class="fab fa-linkedin fa-border"></i><br/> LinkedIn](https://www.linkedin.com/in/gabrielnm)</td>
+<td>[<i class="fab fa-linkedin fa-border"></i><br/> LinkedIn](https://www.linkedin.com/in/gabrielnm)</td>
 <td>[<i class="fab fa-github-square  fa-border"></i><br/> GitHub](https://www.github.com/gmar1274)</td>
 <td>[<i class="fas fa-file-pdf fa-border"></i><br/> Resume](/docs/resume.pdf)</td>
 </tr>
@@ -172,21 +172,21 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 <table class="mycenter wow tada">
 <tr>
 <td>2018&mdash;present</td>
-<td><strong>M.S.</td>
-<td><strong>Applied Mathematics, <br/> <i>California State Polytechnic University, Pomona</i></td>
-<td><strong>Relevant Coursework:<br/> Mathematical Modeling</td>
+<td><strong>M.S.</strong></td>
+<td><strong>Applied Mathematics</strong>, <br/> <i>California State Polytechnic University, Pomona</i></td>
+<td><strong>Relevant Coursework:</strong><br/> Mathematical Modeling</td>
 </tr>
 <tr>
 <td>2011&mdash;2016</td>
-<td><strong>B.S</td>
-<td><strong>Computer Science<br/> (ABET Accredited), <i>California State Polytechnic University, Pomona</i></td>
-<td><strong>Relevant Coursework:<br/> Artificial Intelligence, Computer Networks, Database Systems, Programming Graphical User Interfaces (GUI), Computer Organization and Assembly Programming, Data Structures & Algorithms, Design and Analysis of Algorithms, Numerical Methods, Graph Theory</td>
+<td><strong>B.S</strong></td>
+<td><strong>Computer Science</strong><br/> (ABET Accredited), <i>California State Polytechnic University, Pomona</i></td>
+<td><strong>Relevant Coursework:</strong><br/> Artificial Intelligence, Computer Networks, Database Systems, Programming Graphical User Interfaces (GUI), Computer Organization and Assembly Programming, Data Structures & Algorithms, Design and Analysis of Algorithms, Numerical Methods, Graph Theory</td>
 </tr>
 <tr>
 <td>2011&mdash;2016</td>
-<td><strong>Minor</td>
-<td><strong>Physics,<br/> <i>California State Polytechnic University, Pomona</i></td>
-<td><strong>Relevant Coursework:<br/> Biophysics, Computational Physics (python programming using NumPy and SciPy modules), Intro to Electromagnetic Radiation and Special Relativity, Intro to Quantum Physics, General Physics, Differential Equations, Multivariable Calculus</td>
+<td><strong>Minor</strong></td>
+<td><strong>Physics</strong>,<br/> <i>California State Polytechnic University, Pomona</i></td>
+<td><strong>Relevant Coursework:</strong><br/> Biophysics, Computational Physics (python programming using NumPy and SciPy modules), Intro to Electromagnetic Radiation and Special Relativity, Intro to Quantum Physics, General Physics, Differential Equations, Multivariable Calculus</td>
 </tr>
 </table>
 
@@ -275,13 +275,13 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 <td>Going to Dodger games :baseball:
 </tr>
 <tr>
-<td><strong>TV shows</strong> <i class="fas fa-tv"></i>
-<td>MasterChef
-<td>Ink Master
-<td>Shark Tank
-<td>It's Always Sunny in Philadelphia
-<td>Workaholics
-<td>Rick and Morty
-<td>Turn
+<td><strong>TV shows</strong> <i class="fas fa-tv"></i></td>
+<td>MasterChef<td>
+<td>Ink Master</td>
+<td>Shark Tank</td>
+<td>It's Always Sunny in Philadelphia<td>
+<td>Workaholics</td>
+<td>Rick and Morty</td>
+<td>Turn</td>
 </tr>
 </table>
