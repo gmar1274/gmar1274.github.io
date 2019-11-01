@@ -1,8 +1,4 @@
 
-
-
-
-
 {::options parse_block_html="true" /}
 <div class="mycenter wow slideInDown">
 [<i class="fab fa-linkedin fa-border"></i><br/> LinkedIn](https://www.linkedin.com/in/gabrielnm) | [<i class="fab fa-github-square  fa-border"></i><br/> GitHub](https://www.github.com/gmar1274) | [<i class="fas fa-file-pdf fa-border"></i><br/> Resume](/docs/resume.pdf)
@@ -168,7 +164,10 @@ Outside of work, (and outside of coding for fun) I enjoy going out and listening
 {:.wow .fadeInRight}
 ## Education  <i class="fas fa-user-graduate"></i>
 ---
+
+{::options parse_block_html="true" /}
 <div class="wow tada">
+
 2018--present | **M.S.** | **Applied Mathematics**, <br/> *California State Polytechnic University, Pomona.* | **Relevant Coursework:** <br/> Mathematical Modeling | 
 |---------|
 2011--2016 | **B.S** | **Computer Science**<br/> (ABET Accredited), *California State Polytechnic University, Pomona.* | **Relevant Coursework:** <br/> Artificial Intelligence, Computer Networks, Database Systems, Programming Graphical User Interfaces (GUI), Computer Organization and Assembly Programming, Data Structures & Algorithms, Design and Analysis of Algorithms, Numerical Methods, Graph Theory | 
