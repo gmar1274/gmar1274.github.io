@@ -26,7 +26,6 @@
    th,td{
       font-weight: 100;
       vertical-align: top;
-      padding: 0px;
    }
    body{
       background-color: white;
@@ -108,6 +107,9 @@
       vertical-align: middle;
    }
     @media print, screen and (max-width: 740px){
+      td{
+         padding: 0px;
+      }
        .poloroid{
             border-width: 1em;
             border-bottom-width: 5.5em;
