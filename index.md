@@ -295,7 +295,7 @@ As a former baseball player, I understand the value and importance of teamwork. 
 ```
 </div>
 
-{: #raspberry-pi .wow .fadeInRight}
+{: #raspberry-pi .wow .fadeInLeft}
 ### Raspberry Pi - OpenVPN Server <i class="fab fa-raspberry-pi wow fadeIn"></i>
 <div class="wow fadeIn">
 ```bash
