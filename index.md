@@ -1,4 +1,5 @@
 {::options parse_block_html="true" /}
+
 <nav class="navbar">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -18,9 +19,10 @@
     </div>
   </div>
 </nav>
-{: .myimage-center .wow .rollIn}
-![Image of Gabriel](/images/gabriel.png)
 
+<div class="myimage-center wow rollIn">
+  ![Image of Gabriel](/images/gabriel.png)
+</div>
 
 <style>
    .navbar-nav.navbar-center {
