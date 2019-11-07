@@ -1,17 +1,12 @@
-<nav class="navbar fixed-top navbar-expand-sm bg-light justify-content-center">
-  <!-- Brand -->
-  <a class="navbar-brand" href="#"></a>
-  <!-- Toggler/collapsibe Button -->
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar"><span class="navbar-toggler-icon"></span></button>
-  <!-- Navbar links -->
-  <div class="collapse navbar-collapse" id="collapsibleNavbar">
-    <ul class="nav navbar-nav navbar-center">
-      <li class="wow slideInLeft" ><a href="https://www.linkedin.com/in/gabrielnm"><i class="fab fa-linkedin fa-border"></i><br/>LinkedIn</a></li>
-      <li class="wow slideInDown" ><a href="https://www.github.com/gmar1274"><i class="fab fa-github-square  fa-border"></i><br/>GitHub</a></li>
-      <li class="wow slideInRight" ><a href="/docs/resume.pdf"><i class="fas fa-file-pdf fa-border"></i><br/>Resume</a></li></ul></div>
-</nav>
-
 {::options parse_block_html="true" /}
+<table class="mycenter table">
+<tr>
+<td class="wow slideInLeft" ><a href="https://www.linkedin.com/in/gabrielnm"><i class="fab fa-linkedin fa-border"></i><br/>LinkedIn</a></td>
+<td class="wow slideInDown" ><a href="https://www.github.com/gmar1274"><i class="fab fa-github-square  fa-border"></i><br/>GitHub</a></td>
+<td class="wow slideInRight" ><a href="/docs/resume.pdf"><i class="fas fa-file-pdf fa-border"></i><br/>Resume</a></td>
+</tr>
+</table>
+
 <div class="myimage-center wow rollIn">
   ![Image of Gabriel](/images/gabriel.png)
 </div>
