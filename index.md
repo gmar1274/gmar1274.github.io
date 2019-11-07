@@ -1,13 +1,4 @@
 {::options parse_block_html="true" /}
-<!--
-<table class="mycenter table">
-<tr>
-<td class="wow slideInLeft" ><a href="https://www.linkedin.com/in/gabrielnm"><i class="fab fa-linkedin fa-border"></i><br/>LinkedIn</a></td>
-<td class="wow slideInDown" ><a href="https://www.github.com/gmar1274"><i class="fab fa-github-square  fa-border"></i><br/>GitHub</a></td>
-<td class="wow slideInRight" ><a href="/docs/resume.pdf"><i class="fas fa-file-pdf fa-border"></i><br/>Resume</a></td>
-</tr>
-</table>
--->
 <nav class="navbar">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -27,7 +18,6 @@
     </div>
   </div>
 </nav>
-
 {: .myimage-center .wow .rollIn}
 ![Image of Gabriel](/images/gabriel.png)
 
