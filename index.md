@@ -1,4 +1,5 @@
 {::options parse_block_html="true" /}
+<!--
 <table class="mycenter table">
 <tr>
 <td class="wow slideInLeft" ><a href="https://www.linkedin.com/in/gabrielnm"><i class="fab fa-linkedin fa-border"></i><br/>LinkedIn</a></td>
@@ -6,12 +7,37 @@
 <td class="wow slideInRight" ><a href="/docs/resume.pdf"><i class="fas fa-file-pdf fa-border"></i><br/>Resume</a></td>
 </tr>
 </table>
+-->
+<nav class="navbar">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#"></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+    <ul class="nav navbar-nav navbar-center">
+         <li class="wow slideInLeft" ><a href="https://www.linkedin.com/in/gabrielnm"><i class="fab fa-linkedin fa-border"></i><br/>LinkedIn</a></li>
+         <li class="wow slideInDown" ><a href="https://www.github.com/gmar1274"><i class="fab fa-github-square  fa-border"></i><br/>GitHub</a></li>
+         <li class="wow slideInRight" ><a href="/docs/resume.pdf"><i class="fas fa-file-pdf fa-border"></i><br/>Resume</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
 
 {: .myimage-center .wow .rollIn}
 ![Image of Gabriel](/images/gabriel.png)
 
 
 <style>
+   .navbar-nav.navbar-center {
+       position: absolute;
+       left: 50%;
+       transform: translatex(-50%);
+   }
    .fab, .fa,.fas{
       color: #069;
    }
