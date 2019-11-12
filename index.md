@@ -236,11 +236,17 @@ As a former baseball player, I understand the value and importance of teamwork. 
 <div class="wow fadeIn">
 ~~~java
 - [x] Project goal was to create a really straightforward app to keep a history of all medications consumed.
+
 - [x] What I needed was a simple app to keep a record of the medications I was taking and when I last took it. (I had my tonsils removed Oct. 7th 2019)
+
 - [x] This is an offline app, however it implements Android's Room persistence library which provides an abstraction layer over SQLite to allow for more robust database access while harnessing the full power of SQLite.
+
 - [x] I also added Google's AdMob so that I can add an advertising banner to my app for revune potential.
+
 - [x] This app utillizes Font Awesome and skydove's ColorPickerView (https://github.com/skydoves/ColorPickerView).
+
 - [ ] Google Play Store link: *upcoming*
+
 - [ ] Next step is to implement a *reminding* function to alert the user when it's time to take the next dosage of medication.
 ~~~
 </div>
@@ -250,9 +256,13 @@ As a former baseball player, I understand the value and importance of teamwork. 
 <div class="wow fadeIn">
 ```java
 - [x] Project goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile development.
+
 - [x] Implemented native animation libraries and media player.
+
 - [x] App developed using Java.
+
 - [x] Implemented one of the first Artificial Intelligence search algorithms called MinMax with alpha-beta pruning to reduce the runtime search efficiency.
+
 - [x] Third party API's consumed include Google's Firebase NoSQL and AdMob.
 ```
 </div>
@@ -262,9 +272,13 @@ As a former baseball player, I understand the value and importance of teamwork. 
 <div class="wow fadeIn">
 ```swift
 - [x] Project goal was to recreate an app similar to Supercut's real-time reservation system.
+
 - [x] Project to demonstrate proficiency with the Android and iOS SDK native mobile development,life cycle, and Model View Controller architecture (MVC).
+
 - [x] Project functionality similar to Supercut's realtime reservation system.
+
 - [x] Android developed using Java and iOS app developed using swift.
+
 - [x] Technologies used: Android Studio and Xcode IDE, DreamFactory REST API Platform for creating custom web APIs, JSON for encoding/  decoding microservices, MySQL, Google's Firebase NoSQL, and Amazon Web Services (AWS) EC2 instance to host the MySQL database.
 ```
 </div>
@@ -274,9 +288,13 @@ As a former baseball player, I understand the value and importance of teamwork. 
 <div class="wow fadeIn">
 ```c#
 - [x] Project goal was to create a WPF administrative inventory management dashboard  application for the independent trucking industry.
+
 - [x] Portfolio project to demonstrate knowledge using the .NET framework and Model View ViewModel Architecture (MVVM).
+
 - [x] Developed an administrative inventory management dashboard system GUI.
+
 - [x] App written in C#.
+
 - [x] Technologies used: Microsoft Visual Studio IDE, XAML, MYSQL, PHP for custom web services, JSON for encoding/decoding PHP web services, and Amazon Web Services (AWS) EC2 instance for hosting the database and PHP web services.
 ```     
 </div>
@@ -286,11 +304,17 @@ As a former baseball player, I understand the value and importance of teamwork. 
 <div class="wow fadeIn">
 ```python
 - [x] Project goal was to model biological growth using the Lindenmayer System.
+
 - [x] Went above and beyond class requirements. Goal was to recreate research publication that models botanical life using the Lindenmayer System.
+
 - [x] Class project that demonstrate proficiency in Python and computational physics modeling.
+
 - [x] Recreated a journal publication to model botanical structure using the Lindenmayer System.
+
 - [x] Went above and beyond. Developed a GUI using the Tkinter module.
+
 - [x] Used SciPy and NumPy modules for computing and plotting results of the research publication.
+
 - [x] Technologies used: Eclipse IDE with the PyDev plugin for development.
 ```
 </div>
@@ -300,10 +324,15 @@ As a former baseball player, I understand the value and importance of teamwork. 
 <div class="wow fadeIn">
 ```bash
 - [x] Project goal was to host my own secure virtual private network (VPN) server		
+
 - [x] Successfully created and currently maintaining a Virtual Private Network (VPN) for secured and safe web browsing on my Raspberry Pi.		
+
 - [x] Registered with No-IP (free dynamic DNS service) so that my OpenVPN server being hosted at home from my ISP can be resolved when doing a DNS lookup.		
+
 - [x] Engineered a layered home network and configured my firewall from my main ISP provided router and created a extra sub net using my  TP-Link router for a separate controlled network testing environment.		
+
 - [x] Configured my TP-Link's firmware and installed OpenWrt on the device. 
+
 - [ ] Next step is to buy a mini USB travel router and install OpenWrt along with OpenVpn so that I can connect all my extra devices to my travel router without needing to generate individual certificates and keys for each client device.
 ```
 </div>
