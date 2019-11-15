@@ -56,7 +56,6 @@
         border-bottom: 0px;
     }
     .mycenter td {
-        font-size: 2em;
         text-align: center;
         padding: 0.5em;
         border-bottom: 1px solid #aaa;
