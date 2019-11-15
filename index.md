@@ -29,6 +29,7 @@
    th,td{
       font-weight: 100;
       vertical-align: top;
+      padding: .5em;
    }
    body{
       background-color: white;
