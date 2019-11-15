@@ -12,6 +12,9 @@
 </div>
 
 <style>
+  table td{
+    font-size: 1em;
+  }
    .fab, .fa,.fas{
       color: #069;
    }
@@ -53,9 +56,9 @@
         border-bottom: 0px;
     }
     .mycenter td {
-        font-size: 1em;
+        font-size: 2em;
         text-align: center;
-        padding: 5px 10px;
+        padding: 0.5em;
         border-bottom: 1px solid #aaa;
     }
     .mycenter tr:nth-child(odd){ 
@@ -84,9 +87,6 @@
         padding: .25em;
         margin-top: .5em;
     }
-    td{
-      vertical-align: top;
-   }
     /*  Define the background color for all the ODD background rows  */
     tr:nth-child(odd){ 
         text-align: center;
@@ -107,8 +107,8 @@
       vertical-align: middle;
    }
     @media print, screen and (max-width: 740px){
-      td{
-         padding: 0px;
+       table td{
+        font-size: 0.8em;
       }
        .poloroid{
             border-width: 1em;
@@ -149,7 +149,7 @@
    p{
       padding: .25em;
       margin: .5em; 
-      font-size: 12pt;
+      font-size: 15pt;
       font-family: Bookman;
    }
 </style>
