@@ -160,7 +160,7 @@
 </div>
 <div class="wow rotateIn">
 <i class="fas fa-quote-left fa-2x fa-pull-left"></i>
-Welcome! My name is Gabriel, and I am first in my family to graduate with a STEM degree. I am a professional JavaScript developer. I was born in Pomona, CA in 1993, taught myself how to code in high school, and been developing applications on all platforms ever since. When I am not coding, I am reading math textbooks (yes really ... :nerd_face: ) and researching new platforms and technologies. I am currently open to discovering new opportunities that would marry my two passions for coding and Information Technology.
+Welcome! My name is Gabriel, and I am first in my family to graduate with a STEM degree. I am a professional JavaScript developer. I was born in Pomona, CA in 1993, taught myself how to code in high school, and been developing applications on all platforms ever since. When I am not coding, I am reading math and statistical textbooks (yes really ... :nerd_face: ), and researching new platforms and technologies. I am currently open to discovering new opportunities that would marry my two passions for coding and Information Technology.
 </div>
 <div class="wow rotateIn">
 As a former baseball player, I understand the value and importance of teamwork. That is why I value a healthy team environment as my number one criterion above all else.<i class="fas fa-quote-right fa-2x fa-pull-right"></i>
@@ -175,8 +175,15 @@ As a former baseball player, I understand the value and importance of teamwork. 
 <td>2018&mdash;present</td>
 <td><strong>M.S.</strong></td>
 <td><strong>Applied Mathematics</strong>, <br/> <i>California State Polytechnic University, Pomona</i></td>
-<td><strong>Relevant Coursework:</strong><br/> 
-<ul><li>Mathematical Modeling</li></ul></td>
+<td>
+  <strong>Relevant Coursework:</strong><br/> 
+    <ul>
+      <li>Mathematical Modeling</li>
+      <li>
+      Regression Analysis
+      </li>
+    </ul>
+  </td>
 </tr>
 <tr>
 <td>2011&mdash;2016</td>
@@ -234,7 +241,8 @@ As a former baseball player, I understand the value and importance of teamwork. 
 {: #medicine-reminder .wow .fadeInRight}
 ### Android Mobile App - Medicine Reminder [![logo](https://github.com/gmar1274/MedicineReminder/blob/master/app/src/main/ic_launcher-web.png?raw=true){:height="50px" width="50px vertical-align:middle"} View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/MedicineReminder)
 <div class="wow fadeIn">
-~~~java
+  
+```java
 - [x] Project goal was to create a really straightforward app to keep a history of all medications consumed.
 
 - [x] What I needed was a simple app to keep a record of the medications I was taking and when I last took it. (I had my tonsils removed Oct. 7th 2019)
@@ -248,12 +256,14 @@ As a former baseball player, I understand the value and importance of teamwork. 
 - [ ] Google Play Store link: *upcoming*
 
 - [ ] Next step is to implement a *reminding* function to alert the user when it's time to take the next dosage of medication.
-~~~
+```
 </div>
 
 {: #tictactoe .wow .fadeInLeft}
 ### Android TicTacToe Mobile Development [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
+
 <div class="wow fadeIn">
+  
 ```java
 - [x] Project goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile development.
 
@@ -270,6 +280,7 @@ As a former baseball player, I understand the value and importance of teamwork. 
 {: #android-ios .wow .fadeInRight}
 ### Android & iOS Mobile Development  [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/Android-Firebase)
 <div class="wow fadeIn">
+  
 ```swift
 - [x] Project goal was to recreate an app similar to Supercut's real-time reservation system.
 
@@ -286,6 +297,7 @@ As a former baseball player, I understand the value and importance of teamwork. 
 {: #wpf .wow .fadeInLeft} 
 ### C\# Windows Presentation Foundation (WPF) Development [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/FTNTransport)
 <div class="wow fadeIn">
+  
 ```c#
 - [x] Project goal was to create a WPF administrative inventory management dashboard  application for the independent trucking industry.
 
@@ -302,6 +314,7 @@ As a former baseball player, I understand the value and importance of teamwork. 
 {: #python .wow .fadeInRight}
 ### Python Modeling - Senior Class Project Computational Physics PHY 409 [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/ComputationalBiologyPhy409Project)
 <div class="wow fadeIn">
+  
 ```python
 - [x] Project goal was to model biological growth using the Lindenmayer System.
 
@@ -318,10 +331,19 @@ As a former baseball player, I understand the value and importance of teamwork. 
 - [x] Technologies used: Eclipse IDE with the PyDev plugin for development.
 ```
 </div>
-
-{: #raspberry-pi .wow .fadeInLeft}
+{: #python .wow .fadeInLeft}
+### Big Data Analytics and Cloud Computing CS4650 [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/CS4650-CloudComputing)
+<div class="wow fadeInLeft">
+  
+  ```python
+  - [x] Introduction to Python for cloud computing and analytics.
+  - [x] Introduction to PANDAS and the NumPy modules.
+  ```
+</div>
+{: #raspberry-pi .wow .fadeInRight}
 ### Raspberry Pi - OpenVPN Server <i class="fab fa-raspberry-pi wow fadeIn"></i>
-<div class="wow fadeIn">
+<div class="wow fadeInRight">
+  
 ```bash
 - [x] Project goal was to host my own secure virtual private network (VPN) server		
 
