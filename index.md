@@ -240,7 +240,7 @@ As a former baseball player, I understand the value and importance of teamwork. 
 
 {: #medicine-reminder .wow .fadeInRight}
 ### Android Mobile App - Medicine Reminder [![logo](https://github.com/gmar1274/MedicineReminder/blob/master/app/src/main/ic_launcher-web.png?raw=true){:height="50px" width="50px vertical-align:middle"} View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/MedicineReminder)
-<div class="wow fadeIn">
+<div class="wow fadeInRight">
   
 ```java
 - [x] Project goal was to create a really straightforward app to keep a history of all medications consumed.
@@ -262,7 +262,7 @@ As a former baseball player, I understand the value and importance of teamwork. 
 {: #tictactoe .wow .fadeInLeft}
 ### Android TicTacToe Mobile Development [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
 
-<div class="wow fadeIn">
+<div class="wow fadeInRight">
   
 ```java
 - [x] Project goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile development.
@@ -277,9 +277,9 @@ As a former baseball player, I understand the value and importance of teamwork. 
 ```
 </div>
 
-{: #android-ios .wow .fadeInRight}
+{: #android-ios .wow .fadeInLeft}
 ### Android & iOS Mobile Development  [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/Android-Firebase)
-<div class="wow fadeIn">
+<div class="wow fadeInRight">
   
 ```swift
 - [x] Project goal was to recreate an app similar to Supercut's real-time reservation system.
@@ -296,7 +296,7 @@ As a former baseball player, I understand the value and importance of teamwork. 
 
 {: #wpf .wow .fadeInLeft} 
 ### C\# Windows Presentation Foundation (WPF) Development [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/FTNTransport)
-<div class="wow fadeIn">
+<div class="wow fadeInRight">
   
 ```c#
 - [x] Project goal was to create a WPF administrative inventory management dashboard  application for the independent trucking industry.
@@ -311,9 +311,9 @@ As a former baseball player, I understand the value and importance of teamwork. 
 ```     
 </div>
 
-{: #python .wow .fadeInRight}
+{: #python .wow .fadeInLeft}
 ### Python Modeling - Senior Class Project Computational Physics PHY 409 [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/ComputationalBiologyPhy409Project)
-<div class="wow fadeIn">
+<div class="wow fadeInRight">
   
 ```python
 - [x] Project goal was to model biological growth using the Lindenmayer System.
@@ -333,14 +333,14 @@ As a former baseball player, I understand the value and importance of teamwork. 
 </div>
 {: #python .wow .fadeInLeft}
 ### Big Data Analytics and Cloud Computing CS4650 [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/CS4650-CloudComputing)
-<div class="wow fadeInLeft">
+<div class="wow fadeInRight">
   
   ```python
   - [x] Introduction to Python for cloud computing and analytics.
   - [x] Introduction to PANDAS and the NumPy modules.
   ```
 </div>
-{: #raspberry-pi .wow .fadeInRight}
+{: #raspberry-pi .wow .fadeInLeft}
 ### Raspberry Pi - OpenVPN Server <i class="fab fa-raspberry-pi wow fadeIn"></i>
 <div class="wow fadeInRight">
   
