@@ -331,6 +331,7 @@ As a former baseball player, I understand the value and importance of teamwork. 
 - [x] Technologies used: Eclipse IDE with the PyDev plugin for development.
 ```
 </div>
+
 {: #python .wow .fadeInLeft}
 ### Big Data Analytics and Cloud Computing CS4650 [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/CS4650-CloudComputing)
 <div class="wow fadeInRight">
@@ -340,6 +341,7 @@ As a former baseball player, I understand the value and importance of teamwork. 
   - [x] Introduction to PANDAS and the NumPy modules.
   ```
 </div>
+
 {: #raspberry-pi .wow .fadeInLeft}
 ### Raspberry Pi - OpenVPN Server <i class="fab fa-raspberry-pi wow fadeIn"></i>
 <div class="wow fadeInRight">
