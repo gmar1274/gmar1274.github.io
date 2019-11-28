@@ -259,10 +259,10 @@ As a former baseball player, I understand the value and importance of teamwork. 
 ```
 </div>
 
-{: #tictactoe .wow .fadeInLeft}
+{: #tictactoe .wow .fadeInRight}
 ### Android TicTacToe Mobile Development [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/Mobile_AI_TicTacToe/wiki)
 
-<div class="wow fadeInRight">
+<div class="wow fadeInLeft">
   
 ```java
 - [x] Project goal was to become familiar with native Android animation libraries and to demonstrate proficiency in Android native mobile development.
@@ -294,9 +294,9 @@ As a former baseball player, I understand the value and importance of teamwork. 
 ```
 </div>
 
-{: #wpf .wow .fadeInLeft} 
+{: #wpf .wow .fadeInRight} 
 ### C\# Windows Presentation Foundation (WPF) Development [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/FTNTransport)
-<div class="wow fadeInRight">
+<div class="wow fadeInLeft">
   
 ```c#
 - [x] Project goal was to create a WPF administrative inventory management dashboard  application for the independent trucking industry.
@@ -332,9 +332,9 @@ As a former baseball player, I understand the value and importance of teamwork. 
 ```
 </div>
 
-{: #python .wow .fadeInLeft}
+{: #python .wow .fadeInRight}
 ### Big Data Analytics and Cloud Computing CS4650 [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/CS4650-CloudComputing)
-<div class="wow fadeInRight">
+<div class="wow fadeInLeft">
   
   ```python
   - [x] Introduction to Python for cloud computing and analytics.
