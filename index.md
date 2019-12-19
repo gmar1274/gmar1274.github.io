@@ -12,10 +12,7 @@
 </div>
 
 <style>
-  p{
-    font-size: 1.5vw;
-  }
-  table td{
+  table td, p{
     font-size: 1em;
   }
    .fab, .fa,.fas{
