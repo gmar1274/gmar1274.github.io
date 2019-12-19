@@ -246,6 +246,7 @@ My childhood experiences of playing sports really defines who I am today. As a f
 {: .wow .fadeInLeft}
 ## My Projects  <i class="fas fa-laptop-code wow fadeIn"></i>
 ---
+
 {: #microcontroller .wow .fadeInRight}
 ### ATmega328 8-bit AVR microcontroller [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/avr-microcontroller)
 <div class="wow fadeInRight">
