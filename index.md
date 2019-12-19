@@ -246,6 +246,14 @@ My childhood experiences of playing sports really defines who I am today. As a f
 {: .wow .fadeInLeft}
 ## My Projects  <i class="fas fa-laptop-code wow fadeIn"></i>
 ---
+{: #microcontroller .wow .fadeInRight}
+### ATmega328 8-bit AVR microcontroller [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/avr-microcontroller)
+<div class="wow fadeInRight">
+  
+```C
+- [ ] Project goal is to learn to how to design my own circuits and control these circuits via a web interface.
+```
+</div>
 
 {: #medicine-reminder .wow .fadeInRight}
 ### Android Mobile App - Medicine Reminder [![logo](https://github.com/gmar1274/MedicineReminder/blob/master/app/src/main/ic_launcher-web.png?raw=true){:height="50px" width="50px vertical-align:middle"} View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/MedicineReminder)
