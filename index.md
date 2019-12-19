@@ -12,6 +12,9 @@
 </div>
 
 <style>
+  p{
+    font-size: 1.5vw;
+  }
   table td{
     font-size: 1em;
   }
@@ -102,7 +105,6 @@
         margin: 0 auto;
         background-color: white;
         border-radius: 8px;
-        font-size:1.5vw;
     }
    img{
       vertical-align: middle;
