@@ -103,9 +103,6 @@
         background-color: white;
         border-radius: 8px;
     }
-.wrapper.body{
-font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-}
    img{
       vertical-align: middle;
    }
