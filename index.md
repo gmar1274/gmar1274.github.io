@@ -13,7 +13,8 @@
 
 <style>
   .about{
-    font-size: 1.3vw;
+    font-size: large;
+    color: black;
   }
   table td{
     font-size: 1em;
