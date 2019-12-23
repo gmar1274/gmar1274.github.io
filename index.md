@@ -169,7 +169,7 @@ Welcome! I am a professional JavaScript developer. I am first in my family to gr
 My childhood experiences of playing sports really defines who I am today. As a former baseball player, I understand the value and importance of teamwork. Growing up as a kid, I use to struggle with my weight. One of my most proudest accomplishments is losing 50 lbs. in just three months. This is a testament to my work ethic, when I set a goal for myself, I overcome all challenges.
 </div>
 <div class="about wow rotateIn">
- As mentioned earlier, I love learning. All of my projects are fueled by this desire to understand. My current project is teaching myself how to design my own circuits so that I can control them using the ATmega328 8-bit AVR microcontroller. I am very excited about this project! More to come...
+ I'm currently trying to expand my knowledge in embedded systems. I'm teaching myself how to design my own circuits so that I can control them using a the ATmega328 8-bit AVR microcontroller. I am very excited about this project! More to come...
  <i class="fas fa-quote-right fa-2x fa-pull-right"></i>
  </div>
 
