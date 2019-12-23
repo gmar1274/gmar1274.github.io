@@ -71,8 +71,6 @@
     }
     .myimage-center{
         text-align:center;
-        height: "25%";
-        width: "25%";
     }
     header{
         background-image: url('/images/mandel.jpg');
@@ -109,6 +107,7 @@
     }
    img{
       vertical-align: middle;
+      max-width: 50%;
    }
     @media print, screen and (max-width: 740px){
        table td{
