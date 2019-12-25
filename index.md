@@ -110,6 +110,9 @@
       max-width: 50%;
    }
     @media print, screen and (max-width: 740px){
+       img{
+         max-width: 100%;
+       }
        table td{
         font-size: 0.8em;
       }
