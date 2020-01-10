@@ -46,13 +46,13 @@
         border-radius: .2em;
         display: inline-block;
         font-size: 2.2em;
-        color: #96cdff;
+        color: #fff;
         text-shadow: rgba(27, 0, 189, 0.69) 0 2px 0;
     }
     header > p{
         text-shadow: 2px 2px 8px #fce059;
         font-size: 1em;
-        color: white;
+        color: #fff;
     }
     .mycenter {
         text-align:center;
@@ -72,11 +72,12 @@
     .myimage-center{
         text-align:center;
     }
-.lightHeader{
-margin: -4em 0 -4em -1em;
-padding:.25em;
-background-color:rgba(150,150,150,0.5);
-}
+    .lightHeader{
+        margin: -4em 0 -4em -1em;
+        padding:.25em;
+        background-color:rgba(150,150,150,0.5);
+        height: inherit;
+    }
     header{
         background-image: url('/images/mandel.jpg');
         border-bottom: 0px;
