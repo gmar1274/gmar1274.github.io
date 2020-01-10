@@ -73,8 +73,9 @@
         text-align:center;
     }
 .lightHeader{
+margin: -4em 0 -4em -1em;
 padding: -4em 0 -4em -1em;
-background-color:rgba(150,150,150,0.3);
+background-color:rgba(150,150,150,0.5);
 }
     header{
         background-image: url('/images/mandel.jpg');
