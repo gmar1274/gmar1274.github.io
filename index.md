@@ -42,14 +42,14 @@
       padding:1em;
       margin: .25em;
    }
-   lightHeader.h1{
+   lightHeader h1{
         border-radius: .2em;
         display: inline-block;
         font-size: 2.2em;
         color: #fff;
         text-shadow: rgba(27, 0, 189, 0.69) 0 2px 0;
     }
-    lightHeader.p{
+    lightHeader p{
         text-shadow: 2px 2px 8px #fce059;
         font-size: 1em;
         color: #fff;
@@ -79,12 +79,17 @@
         margin: -4em 0 -4em -1em;
         padding:.25em;
         background-color:rgba(150,150,150,0.5);
-        height: inherit;
+        height: 1000%;
+        position: absolute;
+        width: 100%;
     }
     header{
         background-image: url('/images/mandel.jpg');
         border-bottom: 0px;
         padding: 4em 0 4em 1em;
+        overflow: hidden;
+        position: relative;
+        width: 100%;
  }
     header ul{
         top: 4em;
