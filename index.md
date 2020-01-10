@@ -12,6 +12,10 @@
 </div>
 
 <style>
+.lightHeader{
+padding: .25em;
+background-color:rgba(192,192,192,0.3);
+}
   .about{
     font-size: large;
     color: black;
