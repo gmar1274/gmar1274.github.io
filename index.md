@@ -42,14 +42,14 @@
       padding:1em;
       margin: .25em;
    }
-   header>h1{
+   lightHeader.h1{
         border-radius: .2em;
         display: inline-block;
         font-size: 2.2em;
         color: #fff;
         text-shadow: rgba(27, 0, 189, 0.69) 0 2px 0;
     }
-    header > p{
+    lightHeader.p{
         text-shadow: 2px 2px 8px #fce059;
         font-size: 1em;
         color: #fff;
@@ -59,6 +59,9 @@
         font-size: 2.5em;
         font-weight: bold;
         border-bottom: 0px;
+        position: -webkit-sticky; /* Safari */
+        position: sticky;
+        top: 0;
     }
     .mycenter td {
         text-align: center;
