@@ -74,7 +74,7 @@
     }
 .lightHeader{
 margin: -4em 0 -4em -1em;
-padding: 1em;
+padding:.25em;
 background-color:rgba(150,150,150,0.5);
 }
     header{
@@ -134,6 +134,9 @@ background-color:rgba(150,150,150,0.5);
         header{
            padding: .9em;
         }
+.lightHeader{
+margin: -0.9em;
+}
         pre{
             padding:0px;
             margin: .25em;
