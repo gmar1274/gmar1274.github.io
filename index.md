@@ -72,12 +72,15 @@
     .myimage-center{
         text-align:center;
     }
+.lightHeader{
+padding: -4em 0 -4em -1em;
+background-color:rgba(150,150,150,0.3);
+}
     header{
         background-image: url('/images/mandel.jpg');
         border-bottom: 0px;
         padding: 4em 0 4em 1em;
-background-color:rgba(192,192,192,0.3);
-    }
+ }
     header ul{
         top: 4em;
     }
