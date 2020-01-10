@@ -74,7 +74,7 @@
     }
 .lightHeader{
 margin: -4em 0 -4em -1em;
-padding: -4em 0 -4em -1em;
+padding: 1em;
 background-color:rgba(150,150,150,0.5);
 }
     header{
