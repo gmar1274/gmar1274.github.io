@@ -12,10 +12,6 @@
 </div>
 
 <style>
-.lightHeader{
-padding: .25em;
-background-color:rgba(192,192,192,0.3);
-}
   .about{
     font-size: large;
     color: black;
@@ -80,6 +76,7 @@ background-color:rgba(192,192,192,0.3);
         background-image: url('/images/mandel.jpg');
         border-bottom: 0px;
         padding: 4em 0 4em 1em;
+background-color:rgba(192,192,192,0.3);
     }
     header ul{
         top: 4em;
