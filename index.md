@@ -79,7 +79,7 @@
         margin: -4em 0 -4em -1em;
         padding:.25em;
         background-color:rgba(150,150,150,0.5);
-        height: 1000%;
+        height: 100%;
         position: absolute;
         width: 100%;
     }
@@ -143,9 +143,10 @@
         header{
            padding: .9em;
         }
-.lightHeader{
-margin: -0.9em;
-}
+      .lightHeader{
+          margin: -0.9em;
+          position: inherit;
+      }
         pre{
             padding:0px;
             margin: .25em;
