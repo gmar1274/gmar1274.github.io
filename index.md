@@ -146,6 +146,7 @@
       .lightHeader{
           margin: -0.9em;
           position: inherit;
+          width: auto;
       }
         pre{
             padding:0px;
