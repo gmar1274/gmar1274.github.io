@@ -42,14 +42,14 @@
       padding:1em;
       margin: .25em;
    }
-   lightHeader h1{
+   header h1{
         border-radius: .2em;
         display: inline-block;
         font-size: 2.2em;
         color: #fff;
         text-shadow: rgba(27, 0, 189, 0.69) 0 2px 0;
     }
-    lightHeader p{
+    header p{
         text-shadow: 2px 2px 8px #fce059;
         font-size: 1em;
         color: #fff;
