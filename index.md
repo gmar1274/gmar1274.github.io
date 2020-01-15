@@ -16,6 +16,8 @@
 <style>
   .navbar{
     margin: -20px;
+    position: sticky;
+    font-size: 2em;
   }
   .education{
      padding: 1em;
@@ -67,12 +69,13 @@
         font-size: 1em;
         color: #fff;
     }
-    nav div ul {
+    navbar-nav div ul {
       display: table;
       width: 100%;
       list-style: none;
     }
-    nav div ul li {
+    navbar-nav div ul li {
+      float: none;
       display: table-cell;
       text-align: center;
     }
