@@ -14,6 +14,9 @@
 </div>
 
 <style>
+  ul .collapse{
+    list-style-type: none;
+  }
   .navbar-nav>li{
     display: table-cell;
     text-align: center;
