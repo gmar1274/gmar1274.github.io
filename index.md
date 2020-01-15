@@ -14,6 +14,9 @@
 </div>
 
 <style>
+  .navbar{
+    margin: -20px;
+  }
   .education{
      padding: 1em;
      margin: 0px -20px;
