@@ -24,7 +24,7 @@
   }
   .about p{
     font-size: large;
-    color: white;
+    color: black;
     //background-color: black;
     margin: 0px -20px;
     padding: 0 1em 1em 1em;
