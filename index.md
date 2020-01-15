@@ -25,6 +25,9 @@
     display: flex;
     float:none;
   }
+  nav btn{
+    color: #069;
+  }
   .navbar .dropdown-menu a{
     font-size:1.25em;
     color: #069;
