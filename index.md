@@ -12,6 +12,11 @@
 </div>
 
 <style>
+  .education{
+     padding: 1em;
+     margin: 0px -20px;
+     background-color: cadetblue;
+  }
   .about p{
     font-size: large;
     color: white;
@@ -205,6 +210,7 @@ My childhood experiences of playing sports really defines who I am today. As a f
 ## Education  <i class="fas fa-user-graduate"></i>
 ---
 
+<div class="education">
 <table>
 <tr>
 <td>2018&mdash;present</td>
@@ -267,6 +273,7 @@ My childhood experiences of playing sports really defines who I am today. As a f
 </td>
 </tr>
 </table>
+</div>
 </div>
 
 {: .wow .fadeInLeft}
