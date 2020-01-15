@@ -17,7 +17,7 @@
     color: white;
     background-color: black;
     margin: 0px -20px;
-    padding-bottom: 15px;
+    padding: 0 1em 1em 1em;
   }
   table td{
     font-size: 1em;
