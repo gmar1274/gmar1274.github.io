@@ -14,6 +14,10 @@
 </div>
 
 <style>
+  .navbar-expand-lg .navbar-nav {
+    text-align: center;
+    display: table;
+  }
   .navbar .dropdown-menu a{
     font-size:1.25em;
     color: #069;
