@@ -40,12 +40,6 @@
   <script> 
     new WOW().init(); 
   </script>
-  <script>
-    $(".dropdown-item").click(function(){
-      alert("Hello");
-      $("#mydropdown").click();
-    }); 
-  </script>
   <body>
     <div class='wrapper'>
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
@@ -117,5 +111,11 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+    <script>
+    $(".dropdown-item").click(function(){
+      alert("Hello");
+      $("#mydropdown").click();
+    }); 
+  </script>
   </body>
 </html>
