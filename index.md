@@ -14,10 +14,15 @@
 </div>
 
 <style>
+  .navbar .dropdown-menu a{
+    font-size:1.25em;
+    color: #069;
+  }
   .navbar{
     margin: -20px;
     position: sticky;
     font-size: 2em;
+    background-color: white;
   }
   .education{
      padding: 1em;
