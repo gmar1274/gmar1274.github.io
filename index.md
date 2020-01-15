@@ -14,7 +14,7 @@
 </div>
 
 <style>
-  ul .collapse{
+  nobull{
     list-style-type: none;
   }
   .navbar-nav>li{
