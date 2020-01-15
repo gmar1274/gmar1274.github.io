@@ -23,6 +23,7 @@
     text-align: center;
     justify-content: center;
     display: flex;
+    float:none;
   }
   .navbar .dropdown-menu a{
     font-size:1.25em;
@@ -83,19 +84,6 @@
         text-shadow: 2px 2px 8px #fce059;
         font-size: 1em;
         color: #fff;
-    }
-    navbar-nav div ul {
-      display: table;
-      width: 100%;
-      list-style: none;
-    }
-    navbar-nav div ul li {
-      float: none;
-      display: table-cell;
-      text-align: center;
-    }
-    nav div ul li a {
-      display: block;
     }
     .mycenter {
         text-align:center;
