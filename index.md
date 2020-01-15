@@ -14,6 +14,10 @@
 </div>
 
 <style>
+  .navbar-nav>li{
+    display: table-cell;
+    text-align: center;
+  }
   .navbar-expand-lg .navbar-nav {
     text-align: center;
     display: table;
