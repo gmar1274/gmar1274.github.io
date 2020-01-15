@@ -62,9 +62,11 @@
         font-size: 2.5em;
         font-weight: bold;
         border-bottom: 0px;
-        position: fixed;
+        position: -webkit-sticky; /* Safari */
+        position: sticky;
         top: 0;
         margin: 0px -20px;
+        width:100vw;
     }
     .mycenter td {
         text-align: center;
