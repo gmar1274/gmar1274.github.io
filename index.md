@@ -14,7 +14,8 @@
 <style>
   .about{
     font-size: large;
-    color: black;
+    color: white;
+background-color: black;
   }
   table td{
     font-size: 1em;
@@ -62,6 +63,7 @@
         position: -webkit-sticky; /* Safari */
         position: sticky;
         top: 0;
+        margin: -1em;
     }
     .mycenter td {
         text-align: center;
