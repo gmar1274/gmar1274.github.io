@@ -17,10 +17,12 @@
   .navbar-nav>li{
     display: table-cell;
     text-align: center;
+    padding: 0 1em 0 1em;
   }
   .navbar-expand-lg .navbar-nav {
     text-align: center;
-    display: table;
+    justify-content: center;
+    display: flex;
   }
   .navbar .dropdown-menu a{
     font-size:1.25em;
