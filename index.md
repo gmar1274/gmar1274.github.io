@@ -12,10 +12,11 @@
 </div>
 
 <style>
-  .about{
+  .about p{
     font-size: large;
     color: white;
-background-color: black;
+    background-color: black;
+    margin: 0px;
   }
   table td{
     font-size: 1em;
@@ -63,7 +64,7 @@ background-color: black;
         position: -webkit-sticky; /* Safari */
         position: sticky;
         top: 0;
-        margin: -1em;
+        margin: 15px -20px;
     }
     .mycenter td {
         text-align: center;
