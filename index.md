@@ -14,10 +14,10 @@
 </div>
 
 <style>
-  :target {
+ .anchor, :target{
     display: block;
-    position: relative;
-    top: -300px; 
+    height: 115px; /*same height as header*/
+    margin-top: -115px; /*same height as header*/
     visibility: hidden;
 }
   .nobull{
