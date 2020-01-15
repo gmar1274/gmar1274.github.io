@@ -14,7 +14,7 @@
 </div>
 
 <style>
- .anchor, :target{
+ .anchor{
     display: block;
     height: 115px; /*same height as header*/
     margin-top: -115px; /*same height as header*/
@@ -224,7 +224,7 @@
       font-family: Bookman;
    }
 </style>
-{: #about}
+<span class="anchor" id="about"></span>
 <div class="wow fadeInRight">
 ## About Me <i class="fas fa-code"></i>
 ---
@@ -241,7 +241,7 @@ My childhood experiences of playing sports really defines who I am today. As a f
  <i class="fas fa-quote-right fa-2x fa-pull-right"></i>
  </div>
 
-{: #education}
+<span class="anchor" id="education"></span>
 <div class="wow tada">
 ## Education  <i class="fas fa-user-graduate"></i>
 ---
@@ -311,8 +311,8 @@ My childhood experiences of playing sports really defines who I am today. As a f
 </table>
 </div>
 </div>
-
-{: #projects .wow .fadeInLeft}
+<span class="anchor" id="projects"></span>
+{: .wow .fadeInLeft}
 ## My Projects  <i class="fas fa-laptop-code wow fadeIn"></i>
 ---
 
@@ -448,7 +448,8 @@ My childhood experiences of playing sports really defines who I am today. As a f
 ```
 </div>
    
-{: #misc .wow .rotateInDownLeft}
+<span class="anchor" id="misc"></span>
+{: .wow .rotateInDownLeft}
 ## Miscellaneous <i class="fas fa-cogs fa-spin"></i>
 ---
 
