@@ -17,7 +17,7 @@
   :target {
     display: block;
     position: relative;
-    top: -120px; 
+    top: -300px; 
     visibility: hidden;
 }
   .nobull{
