@@ -20,12 +20,12 @@
   .education{
      padding: 1em;
      margin: 0px -20px;
-     background-color: cadetblue;
+     //background-color: cadetblue;
   }
   .about p{
     font-size: large;
     color: white;
-    background-color: black;
+    //background-color: black;
     margin: 0px -20px;
     padding: 0 1em 1em 1em;
   }
@@ -193,7 +193,7 @@
       font-family: Bookman;
    }
 </style>
-{: #about-me}
+{: #about}
 <div class="wow fadeInRight">
 ## About Me <i class="fas fa-code"></i>
 ---
@@ -210,7 +210,7 @@ My childhood experiences of playing sports really defines who I am today. As a f
  <i class="fas fa-quote-right fa-2x fa-pull-right"></i>
  </div>
 
-{: #my-education}
+{: #education}
 <div class="wow tada">
 ## Education  <i class="fas fa-user-graduate"></i>
 ---
@@ -281,7 +281,7 @@ My childhood experiences of playing sports really defines who I am today. As a f
 </div>
 </div>
 
-{: #my-projects .wow .fadeInLeft}
+{: #projects .wow .fadeInLeft}
 ## My Projects  <i class="fas fa-laptop-code wow fadeIn"></i>
 ---
 
