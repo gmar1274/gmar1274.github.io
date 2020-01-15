@@ -67,8 +67,21 @@
         font-size: 1em;
         color: #fff;
     }
+    nav div ul {
+      display: table;
+      width: 100%;
+      list-style: none;
+    }
+    nav div ul li {
+      display: table-cell;
+      text-align: center;
+    }
+    nav div ul li a {
+      display: block;
+    }
     .mycenter {
         text-align:center;
+        align-items: center;
         font-size: 2.5em;
         font-weight: bold;
         border-bottom: 0px;
