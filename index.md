@@ -14,6 +14,12 @@
 </div>
 
 <style>
+  :target {
+    display: block;
+    position: relative;
+    top: -120px; 
+    visibility: hidden;
+}
   .nobull{
     list-style-type: none;
   }
