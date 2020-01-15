@@ -61,7 +61,7 @@
       
       <section>
 <nav class="navbar sticky-top navbar-expand-lg">
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+  <button id="btnDropdown" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <i class="fas fa-bars 5x"></i>
   </button>
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
@@ -113,7 +113,7 @@
     {% endif %}
     <script>
     $(".dropdown-item").click(function(){
-      $("#mydropdown").dropdown("toggle");
+      $("#buttonDropdown").dropdown("toggle");
     }); 
   </script>
   </body>
