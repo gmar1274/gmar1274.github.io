@@ -14,7 +14,7 @@
 </div>
 
 <style>
-  nobull{
+  .nobull{
     list-style-type: none;
   }
   .navbar-nav>li{
