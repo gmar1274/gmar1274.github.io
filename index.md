@@ -314,7 +314,7 @@ My childhood experiences of playing sports really defines who I am today. As a f
 
 <span class="anchor" id="projects"></span>
 
-{: .wow .fadeInLeft}
+{: .wow .flash}
 ## My Projects  <i class="fas fa-laptop-code wow fadeIn"></i>
 ---
 
