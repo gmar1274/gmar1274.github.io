@@ -450,8 +450,9 @@ My childhood experiences of playing sports really defines who I am today. As a f
 </div>
    
 <span class="anchor" id="misc"></span>
-{: .wow .rotateInDownLeft}
+<div class="wow rotateInDownLeft">
 ## Miscellaneous <i class="fas fa-cogs fa-spin"></i>
+</div>
 ---
 
 <table class="wow heartBeat">
