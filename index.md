@@ -318,12 +318,12 @@ My childhood experiences of playing sports really defines who I am today. As a f
 ## My Projects  <i class="fas fa-laptop-code wow fadeIn"></i>
 ---
 
-{: #microcontroller .wow .fadeInRight}
+{: #microcontroller .wow .fadeInLeftt}
 ### ATmega328 8-bit AVR microcontroller [View <i class="fab fa-github wow fadeIn"></i>](https://github.com/gmar1274/avr-microcontroller)
-<div class="wow fadeInRight">
+<div class="wow fadeInLeft">
   
 ```C
-- [ ] Project goal is to learn to how to design my own circuits and control these circuits via a web interface.
+- Project goal is to learn to how to design my own circuits and control these circuits via a web interface.
 ```
 </div>
 
