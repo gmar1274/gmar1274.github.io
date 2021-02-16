@@ -1,0 +1,89 @@
+html {
+    scroll-behavior: smooth!important;
+}
+.carousel {
+    min-height: 100%;
+}
+.carousel-indicators .active {
+    background-color: #a7a7a7 !important;
+}
+.carousel-indicators li {
+    background-color: #e0e0e0 !important;
+}
+.zoom-container {
+    /* now a container for the image */
+    display: inline-block; /* shrink wrap to image */
+    overflow: hidden; /* hide the excess */
+}
+.zoom-container img {
+    transform-origin: 65% 75%;
+    transition: transform 1s, filter 0.5s ease-out;
+}
+/* The Transformation */
+.zoom-container:hover img {
+    transform: scale(1.5);
+}
+a.social-media > i:hover {
+    color: rgba(0, 102, 153, 0.8) !important;
+    transform: translateY(-10px);
+    text-decoration: none;
+    transition: 0.5s;
+}
+:target:before {
+    content: "";
+    display: block;
+    height: 0px;
+    margin: 100px 0 0;
+}
+
+#hero::before {
+    bottom: -88px !important;
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    #hero::before {
+        bottom: -56px !important;
+    }
+}
+.navcolor {
+    background-color: white !important;
+}
+
+section.section,
+section {
+    width: 100% !important;
+}
+a,
+.fab,
+.fa,
+.fas {
+    color: #069 !important;
+}
+.navbar-nav {
+    font-size: x-large !important;
+}
+nav,
+ul.navbar-nav > a {
+    border-radius: 0.1em;
+}
+
+ul.navbar-nav > a:hover,
+ul.navbar-nav a:hover li i {
+    background-color: #069 !important;
+    color: white !important;
+    text-decoration: none;
+}
+ul.navbar-nav li:hover a span:hover,
+ul.navbar-nav li:hover a span,
+ul.navbar-nav li a span:hover,
+ul.navbar-nav li:hover a i {
+    color: white !important;
+    text-decoration: none;
+}
+footer {
+    min-height: 150px !important;
+    background-color: #979797 !important;
+    width: 100% !important;
+    position: unset !important;
+}
