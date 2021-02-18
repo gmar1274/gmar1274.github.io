@@ -4,7 +4,7 @@ html,body {
 }
 /* The hero image */
 .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.5)),
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.15)),
      url("/assets/img/hero-bg.jpg");
     /* Set a specific height */
     height: 100%;
@@ -35,6 +35,7 @@ html,body {
     padding-bottom: 4px;
     letter-spacing: 1px;
     border-bottom: 3px solid #149ddd;
+    font-size:x-large;
 }
 .carousel {
     min-height: 100%;
