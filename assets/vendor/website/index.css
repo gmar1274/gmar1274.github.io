@@ -1,5 +1,40 @@
-html {
-    scroll-behavior: smooth!important;
+html,body {
+    scroll-behavior: smooth !important;
+    height: 100%;
+}
+/* The hero image */
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.5)),
+     url("/assets/img/hero-bg.jpg");
+    /* Set a specific height */
+    height: 100%;
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.hero-image > .hero-text > h1{
+    margin: 0 0 10px 0;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #fff;
+}
+/* Place text in the middle of the image */
+.hero-text {
+    text-align: center;
+    position: relative;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    color: white;
+    min-width: 300px;
+}
+.hero-image > .hero-text > p > span{
+    color: white;
+    padding-bottom: 4px;
+    letter-spacing: 1px;
+    border-bottom: 3px solid #149ddd;
 }
 .carousel {
     min-height: 100%;
