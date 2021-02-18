@@ -6,6 +6,9 @@
 */
 !(function ($) {
   "use strict";
+
+  new WOW().init();
+  
   $(".img-fluid").addClass("wow fadeIn z-depth-1-half");
   //new WOW().init();
   // Hero typed
