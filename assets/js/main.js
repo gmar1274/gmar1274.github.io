@@ -30,7 +30,7 @@
   $('#workexp').text(wexp);
   //dynamic age
   var bday = new Date(1993, 8, 10);
-  var age = Math.round(Math.abs(now - bday) / (1000 * 60 * 60 * 24 * 365));//get year rounded to nearest int
+  var age = Math.floor(Math.abs(now - bday) / (1000 * 60 * 60 * 24 * 365));//get year rounded to nearest int
   $('#age').text(age);
   // Smooth scroll for the navigation menu and links with .scrollto classes
   $(document).on('click', '.nav-menu a, .scrollto', function (e) {
